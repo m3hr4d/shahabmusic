@@ -1,0 +1,12 @@
+node_modules/
+.DS_Store
+*.log
+uploads/*
+!uploads/.gitkeep
+logs/*
+!logs/.gitkeep
+admin_password_hash.txt
+cookies.txt
+users.txt
+newsletter_subscribers.txt
+smtp_config.php
