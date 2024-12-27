@@ -1,0 +1,1934 @@
+[2024-09-30 02:46:28] Registration form submitted
+[2024-09-30 02:46:28] Received POST data: Array
+(
+    [username] => mehrad
+    [password] => mehrad
+    [email] => mehrad@gmail.com
+)
+
+[2024-09-30 02:46:28] User registered successfully: mehrad (mehrad@gmail.com)
+[2024-09-30 02:46:28] Accessing client_dashboard.php
+[2024-09-30 02:46:29] Session started
+[2024-09-30 02:46:29] User logged in: mehrad
+[30-Sep-2024 02:46:29 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /Users/mehrad/Documents/shahab/client_dashboard.php on line 5) in /Users/mehrad/Documents/shahab/header.php on line 13
+[2024-09-30 02:46:29] Client dashboard rendered successfully
+[2024-09-30 02:50:47] Accessing client_dashboard.php
+[2024-09-30 02:50:47] User logged in: mehrad
+[2024-09-30 02:50:47] Client dashboard rendered successfully
+[2024-09-30 02:50:55] Login member form submitted
+[2024-09-30 02:50:55] Received POST data: Array
+(
+    [username] => mehrad
+    [password] => ,ejrad
+)
+
+[2024-09-30 02:50:55] Login failed for user: mehrad
+[2024-09-30 02:51:03] Login member form submitted
+[2024-09-30 02:51:03] Received POST data: Array
+(
+    [username] => mehrad
+    [password] => mehrad
+)
+
+[2024-09-30 02:51:03] Login failed for user: mehrad
+[2024-09-30 02:51:14] Login admin form submitted
+[2024-09-30 02:51:14] Received POST data: Array
+(
+    [username] => admin
+    [password] => admin
+)
+
+[2024-09-30 02:51:14] Admin logged in successfully: admin
+[2024-09-30 02:51:14] Accessing client_dashboard.php
+[2024-09-30 02:51:14] User not logged in, redirecting to index.php
+[2024-09-30 02:53:37] Login member form submitted
+[2024-09-30 02:53:37] Received POST data: Array
+(
+    [username] => admin
+    [password] => adminn
+)
+
+[2024-09-30 02:53:37] Login failed for user: admin
+[2024-09-30 02:53:52] Registration form submitted
+[2024-09-30 02:53:52] Received POST data: Array
+(
+    [username] => mehrad
+    [password] => mehrad
+    [email] => mehrad@gmail.com
+)
+
+[2024-09-30 02:53:52] User registered successfully: mehrad (mehrad@gmail.com)
+[2024-09-30 02:53:52] Accessing client_dashboard.php
+[2024-09-30 02:53:52] User logged in: mehrad
+[2024-09-30 02:53:52] Client dashboard rendered successfully
+[2024-09-30 02:54:01] Login admin form submitted
+[2024-09-30 02:54:01] Received POST data: Array
+(
+    [username] => admin
+    [password] => admin
+)
+
+[2024-09-30 02:54:01] Admin logged in successfully: admin
+[2024-09-30 02:54:01] Accessing client_dashboard.php
+[2024-09-30 02:54:01] User not logged in, redirecting to index.php
+[2024-09-30 02:54:07] Login member form submitted
+[2024-09-30 02:54:07] Received POST data: Array
+(
+    [username] => mehrad
+    [password] => mehrad
+)
+
+[2024-09-30 02:54:07] User logged in successfully: mehrad
+[2024-09-30 02:54:07] Accessing client_dashboard.php
+[2024-09-30 02:54:07] User logged in: mehrad
+[2024-09-30 02:54:07] Client dashboard rendered successfully
+[2024-09-30 02:55:37] Login admin form submitted
+[2024-09-30 02:55:37] Received POST data: Array
+(
+    [username] => admin
+    [password] => admin
+)
+
+[2024-09-30 02:55:37] Admin logged in successfully: admin
+[2024-09-30 02:55:37] Admin accessed dashboard: admin
+[2024-09-30 02:55:45] Login member form submitted
+[2024-09-30 02:55:45] Received POST data: Array
+(
+    [username] => mehrad
+    [password] => mehrad
+)
+
+[2024-09-30 02:55:45] User logged in successfully: mehrad
+[2024-09-30 02:55:45] Accessing client_dashboard.php
+[2024-09-30 02:55:45] User logged in: mehrad
+[2024-09-30 02:55:45] Client dashboard rendered successfully
+[2024-09-30 02:56:00] Registration form submitted
+[2024-09-30 02:56:00] Received POST data: Array
+(
+    [username] => mehrad1
+    [password] => mehrad1
+    [email] => mehrad1@gmail.com
+)
+
+[2024-09-30 02:56:00] User registered successfully: mehrad1 (mehrad1@gmail.com)
+[2024-09-30 02:56:00] Accessing client_dashboard.php
+[2024-09-30 02:56:00] User logged in: mehrad1
+[2024-09-30 02:56:00] Client dashboard rendered successfully
+[2024-09-30 02:56:06] Login admin form submitted
+[2024-09-30 02:56:06] Received POST data: Array
+(
+    [username] => admin
+    [password] => admin
+)
+
+[2024-09-30 02:56:06] Admin logged in successfully: admin
+[2024-09-30 02:56:06] Admin accessed dashboard: admin
+[2024-09-30 02:56:13] Login member form submitted
+[2024-09-30 02:56:13] Received POST data: Array
+(
+    [username] => mehrad1
+    [password] => mehrad1
+)
+
+[2024-09-30 02:56:13] User logged in successfully: mehrad1
+[2024-09-30 02:56:13] Accessing client_dashboard.php
+[2024-09-30 02:56:13] User logged in: mehrad1
+[2024-09-30 02:56:13] Client dashboard rendered successfully
+[2024-09-30 03:01:34] Login member form submitted
+[2024-09-30 03:01:34] Received POST data: Array
+(
+    [username] => mehrad
+    [password] => mehrad
+)
+
+[2024-09-30 03:01:34] User logged in successfully: mehrad
+[2024-09-30 03:01:34] Accessing client_dashboard.php
+[2024-09-30 03:01:34] User logged in: mehrad
+[30-Sep-2024 03:01:34 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /Users/mehrad/Documents/shahab/client_dashboard.php on line 5) in /Users/mehrad/Documents/shahab/header.php on line 2
+[2024-09-30 03:01:34] Client dashboard rendered successfully
+[2024-09-30 03:01:44] Accessing client_dashboard.php
+[2024-09-30 03:01:44] User logged in: mehrad
+[30-Sep-2024 03:01:44 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /Users/mehrad/Documents/shahab/client_dashboard.php on line 5) in /Users/mehrad/Documents/shahab/header.php on line 2
+[2024-09-30 03:01:44] Client dashboard rendered successfully
+[2024-09-30 03:03:24] Accessing client_dashboard.php
+[2024-09-30 03:03:24] User not logged in, redirecting to index.php
+[2024-09-30 03:06:56] Login admin form submitted
+[2024-09-30 03:06:56] Received POST data: Array
+(
+    [username] => admin
+    [password] => admin
+)
+
+[2024-09-30 03:06:56] Admin logged in successfully: admin
+[2024-09-30 03:06:56] Admin accessed dashboard: admin
+[2024-09-30 03:09:18] Admin accessed dashboard: admin
+[2024-09-30 03:09:27] Login member form submitted
+[2024-09-30 03:09:27] Received POST data: Array
+(
+    [username] => mehrad
+    [password] => mehrad
+)
+
+[2024-09-30 03:09:27] User logged in successfully: mehrad
+[2024-09-30 03:09:27] Accessing client_dashboard.php
+[2024-09-30 03:09:27] User not logged in, redirecting to index.php
+[2024-09-30 03:13:21] Login member form submitted
+[2024-09-30 03:13:21] Received POST data: Array
+(
+    [username] => mehrad
+    [password] => mehrad
+)
+
+[2024-09-30 03:13:21] User logged in successfully: mehrad
+[2024-09-30 03:13:21] Accessing client_dashboard.php
+[2024-09-30 03:13:21] User not logged in, redirecting to index.php
+[2024-09-30 03:13:40] Login admin form submitted
+[2024-09-30 03:13:40] Received POST data: Array
+(
+    [username] => admin
+    [password] => admin
+)
+
+[2024-09-30 03:13:40] Admin logged in successfully: admin
+[2024-09-30 03:13:40] Admin accessed dashboard: admin
+[2024-09-30 03:13:47] Admin accessed dashboard: admin
+[2024-09-30 03:41:16] Login member form submitted
+[2024-09-30 03:41:16] Received POST data: Array
+(
+    [username] => mehrad
+    [password] => mehrad
+)
+
+[2024-09-30 03:41:16] User logged in successfully: mehrad
+[2024-09-30 03:41:16] Accessing client_dashboard.php
+[2024-09-30 03:41:16] User not logged in, redirecting to index.php
+[2024-09-30 03:41:36] Login admin form submitted
+[2024-09-30 03:41:36] Received POST data: Array
+(
+    [username] => admin
+    [password] => admin
+)
+
+[2024-09-30 03:41:36] Admin logged in successfully: admin
+[2024-09-30 03:41:36] Admin accessed dashboard: admin
+[2024-09-30 03:41:41] Admin accessed dashboard: admin
+[2024-09-30 03:41:48] Admin accessed dashboard: admin
+[2024-09-30 03:42:01] Registration form submitted
+[2024-09-30 03:42:01] Received POST data: Array
+(
+    [username] => mehrad
+    [password] => mehrad
+    [email] => mehrad@gmail.com
+)
+
+[2024-09-30 03:42:01] User registered successfully: mehrad (mehrad@gmail.com)
+[2024-09-30 03:42:01] Accessing client_dashboard.php
+[2024-09-30 03:42:01] User not logged in, redirecting to index.php
+[2024-09-30 03:42:07] Login member form submitted
+[2024-09-30 03:42:07] Received POST data: Array
+(
+    [username] => mehrad
+    [password] => mehrad
+)
+
+[2024-09-30 03:42:07] User logged in successfully: mehrad
+[2024-09-30 03:42:07] Accessing client_dashboard.php
+[2024-09-30 03:42:07] User not logged in, redirecting to index.php
+[2024-09-30 03:54:18] Login member form submitted
+[2024-09-30 03:54:18] Received POST data: Array
+(
+    [username] => mehrad
+    [password] => mehrad
+)
+
+[2024-09-30 03:54:18] User logged in successfully: mehrad
+[2024-09-30 03:54:18] Accessing client_dashboard.php
+[2024-09-30 03:54:18] User not logged in, redirecting to index.php
+[2024-09-30 04:09:11] Accessing client_dashboard.php
+[2024-09-30 04:09:11] User logged in: mehrad
+[2024-09-30 04:09:11] Client dashboard rendered successfully
+[2024-09-30 04:09:21] User logged out: mehrad
+[2024-09-30 04:09:22] Login member form submitted
+[2024-09-30 04:09:27] Login member form submitted
+[2024-09-30 04:09:27] Received POST data: Array
+(
+    [username] => mehrad1
+    [password] => mehrad1
+)
+
+[2024-09-30 04:09:27] Login failed for user: mehrad1
+[2024-09-30 04:09:32] Login member form submitted
+[2024-09-30 04:09:32] Received POST data: Array
+(
+    [username] => mehrad
+    [password] => mehrad
+)
+
+[2024-09-30 04:09:32] Login failed for user: mehrad
+[2024-09-30 04:09:36] Registration form submitted
+[2024-09-30 04:09:42] Registration form submitted
+[2024-09-30 04:09:42] Received POST data: Array
+(
+    [username] => mehrad
+    [password] => mehrad
+    [email] => mehrad@gmail.com
+)
+
+[2024-09-30 04:09:43] User registered successfully: mehrad (mehrad@gmail.com)
+[2024-09-30 04:09:43] Accessing client_dashboard.php
+[2024-09-30 04:09:43] User logged in: mehrad
+[2024-09-30 04:09:43] Client dashboard rendered successfully
+[2024-09-30 04:09:50] Accessing client_dashboard.php
+[2024-09-30 04:09:50] User logged in: mehrad
+[2024-09-30 04:09:50] Client dashboard rendered successfully
+[2024-09-30 04:09:56] Accessing client_dashboard.php
+[2024-09-30 04:09:56] User logged in: mehrad
+[2024-09-30 04:09:56] Client dashboard rendered successfully
+[2024-09-30 04:09:57] User logged out: mehrad
+[2024-09-30 04:09:58] Login member form submitted
+[2024-09-30 04:10:01] Login member form submitted
+[2024-09-30 04:10:01] Received POST data: Array
+(
+    [username] => mehrad
+    [password] => mehrad
+)
+
+[2024-09-30 04:10:02] User logged in successfully: mehrad
+[2024-09-30 04:10:02] Accessing client_dashboard.php
+[2024-09-30 04:10:02] User logged in: mehrad
+[2024-09-30 04:10:02] Client dashboard rendered successfully
+[2024-09-30 04:10:04] User logged out: mehrad
+[2024-09-30 04:10:12] Login member form submitted
+[2024-09-30 04:10:15] Login member form submitted
+[2024-09-30 04:10:15] Received POST data: Array
+(
+    [username] => mehrad
+    [password] => mehrad
+)
+
+[2024-09-30 04:10:15] User logged in successfully: mehrad
+[2024-09-30 04:10:15] Accessing client_dashboard.php
+[2024-09-30 04:10:15] User logged in: mehrad
+[2024-09-30 04:10:15] Client dashboard rendered successfully
+[2024-09-30 04:10:18] User logged out: mehrad
+[2024-09-30 04:10:24] Login admin form submitted
+[2024-09-30 04:10:24] Invalid request method for login_admin.php
+[2024-09-30 04:10:26] Login admin form submitted
+[2024-09-30 04:10:26] Invalid request method for login_admin.php
+[2024-09-30 04:10:31] Login admin form submitted
+[2024-09-30 04:10:31] Invalid request method for login_admin.php
+[2024-09-30 04:10:35] Login admin form submitted
+[2024-09-30 04:10:35] Invalid request method for login_admin.php
+[2024-09-30 04:13:16] Accessing login_admin.php
+[2024-09-30 04:13:16] Accessed login_admin.php via GET request
+[2024-09-30 04:13:19] Accessing login_admin.php
+[2024-09-30 04:13:19] Received POST data: Array
+(
+    [username] => admin
+    [password] => admin
+)
+
+[2024-09-30 04:13:19] Admin logged in successfully: admin
+[2024-09-30 04:13:19] Admin accessed dashboard: admin
+[2024-09-30 04:13:25] Admin accessed dashboard: admin
+[2024-09-30 04:13:27] Login member form submitted
+[2024-09-30 04:13:30] Login member form submitted
+[2024-09-30 04:13:30] Received POST data: Array
+(
+    [username] => mehrad
+    [password] => mehrad
+)
+
+[2024-09-30 04:13:30] User logged in successfully: mehrad
+[2024-09-30 04:13:30] Accessing client_dashboard.php
+[2024-09-30 04:13:30] User logged in: mehrad
+[2024-09-30 04:13:30] Client dashboard rendered successfully
+[2024-09-30 11:51:19] Accessing client_dashboard.php
+[2024-09-30 11:51:19] User logged in: mehrad
+[2024-09-30 11:51:19] Client dashboard rendered successfully
+[2024-09-30 12:25:47] Accessing client_dashboard.php
+[2024-09-30 12:25:47] User logged in: mehrad
+[2024-09-30 12:25:47] Client dashboard rendered successfully
+[2024-09-30 12:25:49] Accessing courses.php
+[2024-09-30 12:25:49] Courses page rendered successfully
+[2024-09-30 12:25:53] Accessing client_dashboard.php
+[2024-09-30 12:25:53] User logged in: mehrad
+[2024-09-30 12:25:53] Client dashboard rendered successfully
+[2024-09-30 12:25:56] Accessing courses.php
+[2024-09-30 12:25:56] Courses page rendered successfully
+[2024-09-30 12:26:04] Accessing courses.php
+[2024-09-30 12:26:04] Courses page rendered successfully
+[2024-09-30 12:26:10] Accessing client_dashboard.php
+[2024-09-30 12:26:10] User logged in: mehrad
+[2024-09-30 12:26:10] Client dashboard rendered successfully
+[2024-09-30 12:26:13] Accessing client_dashboard.php
+[2024-09-30 12:26:13] User logged in: mehrad
+[2024-09-30 12:26:13] Client dashboard rendered successfully
+[2024-09-30 12:26:19] Accessing courses.php
+[2024-09-30 12:26:19] Courses page rendered successfully
+[2024-09-30 12:27:13] Accessing courses.php
+[2024-09-30 12:27:13] Courses page rendered successfully
+[2024-09-30 12:27:25] Accessing courses.php
+[2024-09-30 12:27:25] Courses page rendered successfully
+[2024-09-30 12:28:34] Accessing courses.php
+[2024-09-30 12:28:34] Courses page rendered successfully
+[2024-09-30 12:29:03] User logged out: mehrad
+[2024-09-30 12:29:05] Accessing courses.php
+[2024-09-30 12:29:05] Courses page rendered successfully
+[2024-09-30 12:29:08] Login member form submitted
+[2024-09-30 12:29:12] Login member form submitted
+[2024-09-30 12:29:12] Received POST data: Array
+(
+    [username] => mehrad
+    [password] => mehrad
+)
+
+[2024-09-30 12:29:12] User logged in successfully: mehrad
+[2024-09-30 12:29:12] Accessing client_dashboard.php
+[2024-09-30 12:29:12] User logged in: mehrad
+[2024-09-30 12:29:12] Client dashboard rendered successfully
+[2024-09-30 12:29:16] Accessing courses.php
+[2024-09-30 12:29:16] Courses page rendered successfully
+[2024-09-30 12:30:10] Accessing courses.php
+[2024-09-30 12:30:10] Courses page rendered successfully
+[2024-09-30 12:30:14] Accessing courses.php
+[2024-09-30 12:30:14] Courses page rendered successfully
+[2024-09-30 12:33:32] Accessing client_dashboard.php
+[2024-09-30 12:33:32] User logged in: mehrad
+[2024-09-30 12:33:32] Client dashboard rendered successfully
+[2024-09-30 12:33:33] Accessing courses.php
+[2024-09-30 12:33:33] Courses page rendered successfully
+[2024-09-30 12:33:35] Accessing course_detail.php
+[2024-09-30 12:33:35] Course detail page rendered successfully for course ID: 1
+[2024-09-30 12:33:38] Accessing enroll.php
+[2024-09-30 12:33:38] User mehrad enrolled in course 1
+[2024-09-30 12:33:38] Accessing course_detail.php
+[2024-09-30 12:33:38] Course detail page rendered successfully for course ID: 1
+[2024-09-30 12:33:47] Accessing courses.php
+[2024-09-30 12:33:47] Courses page rendered successfully
+[2024-09-30 12:33:49] Accessing course_detail.php
+[2024-09-30 12:33:49] Course detail page rendered successfully for course ID: 1
+[2024-09-30 12:33:50] Accessing enroll.php
+[2024-09-30 12:33:50] User mehrad already enrolled in course 1
+[2024-09-30 12:33:50] Accessing course_detail.php
+[2024-09-30 12:33:50] Course detail page rendered successfully for course ID: 1
+[2024-09-30 12:33:50] Accessing enroll.php
+[2024-09-30 12:33:50] User mehrad already enrolled in course 1
+[2024-09-30 12:33:50] Accessing course_detail.php
+[2024-09-30 12:33:50] Course detail page rendered successfully for course ID: 1
+[2024-09-30 12:33:52] Accessing courses.php
+[2024-09-30 12:33:52] Courses page rendered successfully
+[2024-09-30 12:33:53] Accessing course_detail.php
+[2024-09-30 12:33:53] Course detail page rendered successfully for course ID: 1
+[2024-09-30 12:33:54] Accessing enroll.php
+[2024-09-30 12:33:54] User mehrad already enrolled in course 1
+[2024-09-30 12:33:54] Accessing course_detail.php
+[2024-09-30 12:33:54] Course detail page rendered successfully for course ID: 1
+[2024-09-30 12:33:54] Accessing enroll.php
+[2024-09-30 12:33:54] User mehrad already enrolled in course 1
+[2024-09-30 12:33:54] Accessing course_detail.php
+[2024-09-30 12:33:54] Course detail page rendered successfully for course ID: 1
+[2024-09-30 12:34:59] Accessing course_detail.php
+[2024-09-30 12:34:59] Course detail page rendered successfully for course ID: 1
+[2024-09-30 12:40:59] User logged out: mehrad
+[2024-09-30 12:41:01] Accessing login_admin.php
+[2024-09-30 12:41:01] Accessed login_admin.php via GET request
+[2024-09-30 12:41:03] Accessing login_admin.php
+[2024-09-30 12:41:03] Received POST data: Array
+(
+    [username] => admin
+    [password] => admin
+)
+
+[2024-09-30 12:41:03] Admin logged in successfully: admin
+[2024-09-30 12:41:03] Admin accessed dashboard: admin
+[2024-09-30 12:41:09] Admin accessed dashboard: admin
+[2024-09-30 12:41:13] Login member form submitted
+[2024-09-30 12:41:18] Login member form submitted
+[2024-09-30 12:41:18] Received POST data: Array
+(
+    [username] => mehrad1
+    [password] => mehrad1
+)
+
+[2024-09-30 12:41:18] Login failed for user: mehrad1
+[2024-09-30 12:41:23] Login member form submitted
+[2024-09-30 12:41:23] Received POST data: Array
+(
+    [username] => mehrad1
+    [password] => mehrad1
+)
+
+[2024-09-30 12:41:23] Login failed for user: mehrad1
+[2024-09-30 12:41:28] Login member form submitted
+[2024-09-30 12:41:28] Received POST data: Array
+(
+    [username] => mehrad
+    [password] => mehrad
+)
+
+[2024-09-30 12:41:28] User logged in successfully: mehrad
+[2024-09-30 12:41:28] Accessing client_dashboard.php
+[2024-09-30 12:41:28] User logged in: mehrad
+[2024-09-30 12:41:28] Client dashboard rendered successfully
+[2024-09-30 12:41:36] Accessing courses.php
+[2024-09-30 12:41:36] Courses page rendered successfully
+[2024-09-30 12:41:38] Accessing course_detail.php
+[2024-09-30 12:41:38] Course detail page rendered successfully for course ID: 1
+[2024-09-30 12:41:39] Accessing enroll.php
+[2024-09-30 12:41:39] User mehrad already enrolled in course 1
+[2024-09-30 12:41:39] Accessing course_detail.php
+[2024-09-30 12:41:39] Course detail page rendered successfully for course ID: 1
+[2024-09-30 12:41:41] Accessing course_detail.php
+[2024-09-30 12:41:41] Course detail page rendered successfully for course ID: 1
+[2024-09-30 12:41:41] Accessing courses.php
+[2024-09-30 12:41:41] Courses page rendered successfully
+[2024-09-30 12:41:42] Accessing client_dashboard.php
+[2024-09-30 12:41:42] User logged in: mehrad
+[2024-09-30 12:41:42] Client dashboard rendered successfully
+[2024-09-30 12:44:15] Accessing client_dashboard.php
+[2024-09-30 12:44:15] User logged in: mehrad
+[2024-09-30 12:44:15] Client dashboard rendered successfully
+[2024-09-30 12:47:46] Accessing client_dashboard.php
+[2024-09-30 12:47:46] User logged in: mehrad
+[2024-09-30 12:47:46] Client dashboard rendered successfully
+[2024-09-30 12:47:49] Accessing courses.php
+[2024-09-30 12:47:49] Courses page rendered successfully
+[2024-09-30 12:47:51] Accessing course_detail.php
+[2024-09-30 12:47:51] Course detail page rendered successfully for course ID: 1
+[2024-09-30 12:47:52] Accessing enroll.php
+[2024-09-30 12:47:52] User mehrad already enrolled in course 1
+[2024-09-30 12:47:52] Accessing course_detail.php
+[2024-09-30 12:47:52] Course detail page rendered successfully for course ID: 1
+[2024-09-30 12:47:53] Accessing enroll.php
+[2024-09-30 12:47:53] User mehrad already enrolled in course 1
+[2024-09-30 12:47:53] Accessing course_detail.php
+[2024-09-30 12:47:53] Course detail page rendered successfully for course ID: 1
+[2024-09-30 12:47:53] Accessing enroll.php
+[2024-09-30 12:47:53] User mehrad already enrolled in course 1
+[2024-09-30 12:47:53] Accessing course_detail.php
+[2024-09-30 12:47:53] Course detail page rendered successfully for course ID: 1
+[2024-09-30 12:47:53] Accessing enroll.php
+[2024-09-30 12:47:53] User mehrad already enrolled in course 1
+[2024-09-30 12:47:53] Accessing course_detail.php
+[2024-09-30 12:47:53] Course detail page rendered successfully for course ID: 1
+[2024-09-30 12:47:57] Accessing courses.php
+[2024-09-30 12:47:57] Courses page rendered successfully
+[2024-09-30 12:47:59] Accessing course_detail.php
+[2024-09-30 12:47:59] Course detail page rendered successfully for course ID: 1
+[2024-09-30 12:48:00] Accessing enroll.php
+[2024-09-30 12:48:00] User mehrad already enrolled in course 1
+[2024-09-30 12:48:00] Accessing course_detail.php
+[2024-09-30 12:48:00] Course detail page rendered successfully for course ID: 1
+[2024-09-30 12:48:01] User logged out: mehrad
+[2024-09-30 12:48:02] Login member form submitted
+[2024-09-30 12:48:06] Registration form submitted
+[2024-09-30 12:48:17] Registration form submitted
+[2024-09-30 12:48:17] Received POST data: Array
+(
+    [username] => mehrad1
+    [password] => mehrad1
+    [email] => m1@gmail.com
+)
+
+[2024-09-30 12:48:17] User registered successfully: mehrad1 (m1@gmail.com)
+[2024-09-30 12:48:17] Accessing client_dashboard.php
+[2024-09-30 12:48:17] User logged in: mehrad1
+[2024-09-30 12:48:17] Client dashboard rendered successfully
+[2024-09-30 12:48:20] Accessing courses.php
+[2024-09-30 12:48:20] Courses page rendered successfully
+[2024-09-30 12:48:21] Accessing course_detail.php
+[2024-09-30 12:48:21] Course detail page rendered successfully for course ID: 1
+[2024-09-30 12:48:22] Accessing enroll.php
+[2024-09-30 12:48:22] User mehrad1 enrolled in course 1
+[2024-09-30 12:48:23] Accessing course_detail.php
+[2024-09-30 12:48:23] Course detail page rendered successfully for course ID: 1
+[2024-09-30 12:48:24] Accessing enroll.php
+[2024-09-30 12:48:24] User mehrad1 already enrolled in course 1
+[2024-09-30 12:48:24] Accessing course_detail.php
+[2024-09-30 12:48:24] Course detail page rendered successfully for course ID: 1
+[2024-09-30 12:48:24] Accessing enroll.php
+[2024-09-30 12:48:24] User mehrad1 already enrolled in course 1
+[2024-09-30 12:48:24] Accessing course_detail.php
+[2024-09-30 12:48:24] Course detail page rendered successfully for course ID: 1
+[2024-09-30 12:48:24] Accessing enroll.php
+[2024-09-30 12:48:24] User mehrad1 already enrolled in course 1
+[2024-09-30 12:48:24] Accessing course_detail.php
+[2024-09-30 12:48:24] Course detail page rendered successfully for course ID: 1
+[2024-09-30 12:48:24] Accessing enroll.php
+[2024-09-30 12:48:24] User mehrad1 already enrolled in course 1
+[2024-09-30 12:48:24] Accessing course_detail.php
+[2024-09-30 12:48:24] Course detail page rendered successfully for course ID: 1
+[2024-09-30 12:49:50] Accessing courses.php
+[2024-09-30 12:49:50] Courses page rendered successfully
+[2024-09-30 12:49:53] Accessing client_dashboard.php
+[2024-09-30 12:49:53] User logged in: mehrad1
+[2024-09-30 12:49:53] Client dashboard rendered successfully
+[2024-09-30 13:10:17] Accessing client_dashboard.php
+[2024-09-30 13:10:17] User logged in: mehrad1
+[2024-09-30 13:10:17] Client dashboard rendered successfully
+[2024-09-30 13:10:21] Accessing courses.php
+[2024-09-30 13:10:21] Courses page rendered successfully
+[2024-09-30 13:10:23] Accessing course_detail.php
+[2024-09-30 13:10:23] Course detail page rendered successfully for course ID: 1
+[2024-09-30 13:10:24] Accessing course_content.php
+[2024-09-30 13:10:24] Course content page rendered successfully for course ID: 1, lesson ID: 1
+[2024-09-30 13:10:27] Accessing course_content.php
+[2024-09-30 13:10:27] Course content page rendered successfully for course ID: 1, lesson ID: 2
+[2024-09-30 13:10:30] Accessing course_content.php
+[2024-09-30 13:10:30] Course content page rendered successfully for course ID: 1, lesson ID: 3
+[2024-09-30 13:10:31] Accessing course_content.php
+[2024-09-30 13:10:31] Course content page rendered successfully for course ID: 1, lesson ID: 1
+[2024-09-30 13:10:44] User logged out: mehrad1
+[2024-09-30 13:10:58] Login member form submitted
+[2024-09-30 13:11:32] Accessing courses.php
+[2024-09-30 13:11:32] Courses page rendered successfully
+[2024-09-30 13:11:43] Login member form submitted
+[2024-09-30 13:11:48] Registration form submitted
+[2024-09-30 13:11:52] Login member form submitted
+[2024-09-30 13:12:03] Login member form submitted
+[2024-09-30 13:12:03] Received POST data: Array
+(
+    [username] => mehrad1
+    [password] => mehrad1
+)
+
+[2024-09-30 13:12:03] User logged in successfully: mehrad1
+[2024-09-30 13:12:03] Accessing client_dashboard.php
+[2024-09-30 13:12:03] User logged in: mehrad1
+[2024-09-30 13:12:03] Client dashboard rendered successfully
+[2024-09-30 13:12:19] Accessing courses.php
+[2024-09-30 13:12:19] Courses page rendered successfully
+[2024-09-30 13:12:21] Accessing client_dashboard.php
+[2024-09-30 13:12:21] User logged in: mehrad1
+[2024-09-30 13:12:21] Client dashboard rendered successfully
+[2024-09-30 13:12:23] Accessing course_content.php
+[2024-09-30 13:12:23] Course content page rendered successfully for course ID: 1, lesson ID: 1
+[2024-09-30 13:12:27] Accessing course_content.php
+[2024-09-30 13:12:27] Course content page rendered successfully for course ID: 1, lesson ID: 2
+[2024-09-30 13:12:31] Accessing course_content.php
+[2024-09-30 13:12:31] Course content page rendered successfully for course ID: 1, lesson ID: 1
+[2024-09-30 13:12:32] Accessing course_content.php
+[2024-09-30 13:12:32] Course content page rendered successfully for course ID: 1, lesson ID: 2
+[2024-09-30 13:12:33] Accessing course_content.php
+[2024-09-30 13:12:33] Course content page rendered successfully for course ID: 1, lesson ID: 3
+[2024-09-30 13:12:36] Accessing course_content.php
+[2024-09-30 13:12:36] Course content page rendered successfully for course ID: 1, lesson ID: 2
+[2024-09-30 13:12:36] Accessing course_content.php
+[2024-09-30 13:12:36] Course content page rendered successfully for course ID: 1, lesson ID: 1
+[2024-09-30 13:13:57] Accessing courses.php
+[2024-09-30 13:13:57] Courses page rendered successfully
+[2024-09-30 13:13:59] Accessing courses.php
+[2024-09-30 13:13:59] Courses page rendered successfully
+[2024-09-30 13:14:00] Accessing courses.php
+[2024-09-30 13:14:00] Courses page rendered successfully
+[2024-09-30 13:16:56] User logged out: mehrad1
+[2024-09-30 13:17:45] Registration form submitted
+[2024-09-30 13:17:49] Login member form submitted
+[2024-09-30 13:17:54] Accessing courses.php
+[2024-09-30 13:17:54] Courses page rendered successfully
+[2024-09-30 13:18:13] Accessing courses.php
+[2024-09-30 13:18:13] Courses page rendered successfully
+[2024-09-30 13:18:21] Login member form submitted
+[2024-09-30 13:18:31] Login member form submitted
+[2024-09-30 13:18:31] Received POST data: Array
+(
+    [username] => mehrad1
+    [password] => mehrad1
+)
+
+[2024-09-30 13:18:32] User logged in successfully: mehrad1
+[2024-09-30 13:18:32] Accessing client_dashboard.php
+[2024-09-30 13:18:32] User logged in: mehrad1
+[2024-09-30 13:18:32] Client dashboard rendered successfully
+[2024-09-30 13:18:57] Accessing course_content.php
+[2024-09-30 13:18:57] Course content page rendered successfully for course ID: 1, lesson ID: 1
+[2024-09-30 13:19:05] Accessing course_content.php
+[2024-09-30 13:19:05] Course content page rendered successfully for course ID: 1, lesson ID: 2
+[2024-09-30 13:19:10] Accessing course_content.php
+[2024-09-30 13:19:10] Course content page rendered successfully for course ID: 1, lesson ID: 3
+[2024-09-30 13:19:13] Accessing course_content.php
+[2024-09-30 13:19:13] Course content page rendered successfully for course ID: 1, lesson ID: 2
+[2024-09-30 13:19:15] Accessing course_content.php
+[2024-09-30 13:19:15] Course content page rendered successfully for course ID: 1, lesson ID: 1
+[2024-09-30 13:19:21] Accessing client_dashboard.php
+[2024-09-30 13:19:21] User logged in: mehrad1
+[2024-09-30 13:19:21] Client dashboard rendered successfully
+[2024-09-30 14:00:25] Accessing client_dashboard.php
+[2024-09-30 14:00:25] User logged in: mehrad1
+[2024-09-30 14:00:25] Client dashboard rendered successfully
+[2024-09-30 14:00:26] Accessing courses.php
+[2024-09-30 14:00:26] Courses page rendered successfully
+[2024-09-30 14:00:29] Accessing client_dashboard.php
+[2024-09-30 14:00:29] User logged in: mehrad1
+[2024-09-30 14:00:29] Client dashboard rendered successfully
+[2024-09-30 14:00:30] Accessing course_content.php
+[2024-09-30 14:00:30] Course content page rendered successfully for course ID: 1, lesson ID: 1
+[2024-09-30 14:00:31] Accessing course_content.php
+[2024-09-30 14:00:31] Course content page rendered successfully for course ID: 1, lesson ID: 2
+[2024-09-30 14:00:32] Accessing course_content.php
+[2024-09-30 14:00:32] Course content page rendered successfully for course ID: 1, lesson ID: 3
+[2024-09-30 14:00:34] User logged out: mehrad1
+[2024-09-30 14:00:35] Accessing login_admin.php
+[2024-09-30 14:00:35] Accessed login_admin.php via GET request
+[2024-09-30 14:00:40] Accessing login_admin.php
+[2024-09-30 14:00:40] Received POST data: Array
+(
+    [username] => admin
+    [password] => admin
+)
+
+[2024-09-30 14:00:40] Admin logged in successfully: admin
+[2024-09-30 14:00:40] Admin accessed dashboard: admin
+[30-Sep-2024 14:01:33 UTC] PHP Warning:  Undefined array key "title" in /Users/mehrad/Documents/shahab/add_course.php on line 12
+[30-Sep-2024 14:01:33 UTC] PHP Warning:  Undefined array key "description" in /Users/mehrad/Documents/shahab/add_course.php on line 13
+[30-Sep-2024 14:01:33 UTC] PHP Warning:  Undefined array key "image" in /Users/mehrad/Documents/shahab/add_course.php on line 16
+[30-Sep-2024 14:01:33 UTC] PHP Warning:  Trying to access array offset on null in /Users/mehrad/Documents/shahab/add_course.php on line 16
+[30-Sep-2024 14:01:33 UTC] PHP Deprecated:  basename(): Passing null to parameter #1 ($path) of type string is deprecated in /Users/mehrad/Documents/shahab/add_course.php on line 16
+[30-Sep-2024 14:01:33 UTC] PHP Warning:  Undefined array key "image" in /Users/mehrad/Documents/shahab/add_course.php on line 17
+[30-Sep-2024 14:01:33 UTC] PHP Warning:  Trying to access array offset on null in /Users/mehrad/Documents/shahab/add_course.php on line 17
+[30-Sep-2024 14:01:33 UTC] PHP Deprecated:  move_uploaded_file(): Passing null to parameter #1 ($from) of type string is deprecated in /Users/mehrad/Documents/shahab/add_course.php on line 17
+[30-Sep-2024 14:01:33 UTC] PHP Warning:  Undefined array key "videos" in /Users/mehrad/Documents/shahab/add_course.php on line 21
+[30-Sep-2024 14:01:33 UTC] PHP Warning:  Trying to access array offset on null in /Users/mehrad/Documents/shahab/add_course.php on line 21
+[30-Sep-2024 14:01:33 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/mehrad/Documents/shahab/add_course.php on line 21
+[2024-09-30 14:01:33] New course added: 
+[2024-09-30 14:01:33] Admin accessed dashboard: admin
+[2024-09-30 14:01:50] Admin accessed dashboard: admin
+[2024-09-30 14:03:37] Login member form submitted
+[2024-09-30 14:03:42] Login member form submitted
+[2024-09-30 14:03:42] Received POST data: Array
+(
+    [username] => mehrad
+    [password] => mehrad
+)
+
+[2024-09-30 14:03:42] User logged in successfully: mehrad
+[2024-09-30 14:03:42] Accessing client_dashboard.php
+[2024-09-30 14:03:42] User logged in: mehrad
+[2024-09-30 14:03:42] Client dashboard rendered successfully
+[2024-09-30 14:03:43] Accessing courses.php
+[30-Sep-2024 14:03:43 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/courses.php on line 23
+[30-Sep-2024 14:03:43 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/courses.php on line 25
+[30-Sep-2024 14:03:43 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/courses.php on line 26
+[2024-09-30 14:03:43] Courses page rendered successfully
+[2024-09-30 14:03:46] Accessing client_dashboard.php
+[2024-09-30 14:03:46] User logged in: mehrad
+[2024-09-30 14:03:46] Client dashboard rendered successfully
+[2024-09-30 14:03:52] User logged out: mehrad
+[2024-09-30 14:03:54] Login member form submitted
+[2024-09-30 14:03:58] Login member form submitted
+[2024-09-30 14:03:58] Received POST data: Array
+(
+    [username] => mehrad1
+    [password] => mehrad1
+)
+
+[2024-09-30 14:03:58] User logged in successfully: mehrad1
+[2024-09-30 14:03:58] Accessing client_dashboard.php
+[2024-09-30 14:03:58] User logged in: mehrad1
+[2024-09-30 14:03:58] Client dashboard rendered successfully
+[2024-09-30 14:03:59] Accessing courses.php
+[30-Sep-2024 14:03:59 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/courses.php on line 23
+[30-Sep-2024 14:03:59 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/courses.php on line 25
+[30-Sep-2024 14:03:59 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/courses.php on line 26
+[2024-09-30 14:03:59] Courses page rendered successfully
+[2024-09-30 14:04:13] Accessing courses.php
+[30-Sep-2024 14:04:13 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/courses.php on line 23
+[30-Sep-2024 14:04:13 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/courses.php on line 25
+[30-Sep-2024 14:04:13 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/courses.php on line 26
+[2024-09-30 14:04:13] Courses page rendered successfully
+[2024-09-30 14:16:48] Accessing client_dashboard.php
+[2024-09-30 14:16:48] User logged in: mehrad1
+[2024-09-30 14:16:48] Client dashboard rendered successfully
+[2024-09-30 14:16:51] Accessing course_content.php
+[2024-09-30 14:16:51] Course not found: 1
+[2024-09-30 14:16:51] Accessing courses.php
+[2024-09-30 14:16:51] Courses page rendered successfully
+[2024-09-30 14:16:55] Accessing course_detail.php
+[2024-09-30 14:16:55] Course detail page rendered successfully for course ID: 1
+[2024-09-30 14:16:57] Accessing course_content.php
+[2024-09-30 14:16:57] Course not found: 1
+[2024-09-30 14:16:57] Accessing courses.php
+[2024-09-30 14:16:57] Courses page rendered successfully
+[2024-09-30 14:16:59] Accessing courses.php
+[2024-09-30 14:16:59] Courses page rendered successfully
+[2024-09-30 14:17:02] User logged out: mehrad1
+[2024-09-30 14:17:03] Registration form submitted
+[2024-09-30 14:17:05] Login member form submitted
+[2024-09-30 14:17:07] Accessing login_admin.php
+[2024-09-30 14:17:07] Accessed login_admin.php via GET request
+[2024-09-30 14:17:11] Accessing login_admin.php
+[2024-09-30 14:17:11] Received POST data: Array
+(
+    [username] => mehrad
+    [password] => mehrad
+)
+
+[2024-09-30 14:17:11] Admin login failed. Entered username: mehrad
+[2024-09-30 14:17:15] Accessing login_admin.php
+[2024-09-30 14:17:15] Received POST data: Array
+(
+    [username] => admin
+    [password] => admin
+)
+
+[2024-09-30 14:17:15] Admin logged in successfully: admin
+[2024-09-30 14:17:15] Admin accessed dashboard: admin
+[2024-09-30 14:24:27] Accessing courses.php
+[30-Sep-2024 14:24:27 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/courses.php on line 23
+[30-Sep-2024 14:24:27 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/courses.php on line 25
+[30-Sep-2024 14:24:27 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/courses.php on line 26
+[2024-09-30 14:24:27] Courses page rendered successfully
+[2024-09-30 14:27:36] Accessing courses.php
+[2024-09-30 14:27:36] Courses page rendered successfully
+[2024-09-30 14:27:39] Login member form submitted
+[2024-09-30 14:27:43] Login member form submitted
+[2024-09-30 14:27:43] Received POST data: Array
+(
+    [username] => admin
+    [password] => admin
+)
+
+[2024-09-30 14:27:43] Login failed for user: admin
+[2024-09-30 14:27:48] Accessing login_admin.php
+[2024-09-30 14:27:48] Accessed login_admin.php via GET request
+[2024-09-30 14:27:51] Accessing login_admin.php
+[2024-09-30 14:27:51] Received POST data: Array
+(
+    [username] => admin
+    [password] => admin
+)
+
+[2024-09-30 14:27:51] Admin logged in successfully: admin
+[2024-09-30 14:27:51] Admin accessed dashboard: admin
+[30-Sep-2024 14:27:51 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/admin_dashboard.php on line 67
+[30-Sep-2024 14:27:51 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/admin_dashboard.php on line 68
+[2024-09-30 14:27:56] Accessing login_admin.php
+[2024-09-30 14:27:56] Accessed login_admin.php via GET request
+[2024-09-30 14:27:56] Admin accessed dashboard: admin
+[30-Sep-2024 14:27:56 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/admin_dashboard.php on line 67
+[30-Sep-2024 14:27:56 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/admin_dashboard.php on line 68
+[2024-09-30 14:28:05] Admin accessed dashboard: admin
+[30-Sep-2024 14:28:05 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/admin_dashboard.php on line 67
+[30-Sep-2024 14:28:05 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/admin_dashboard.php on line 68
+[2024-09-30 14:28:46] Admin accessed dashboard: admin
+[30-Sep-2024 14:28:46 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/admin_dashboard.php on line 67
+[30-Sep-2024 14:28:46 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/admin_dashboard.php on line 68
+[2024-09-30 14:28:51] Admin accessed dashboard: admin
+[30-Sep-2024 14:28:51 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/admin_dashboard.php on line 67
+[30-Sep-2024 14:28:51 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/admin_dashboard.php on line 68
+[2024-09-30 14:28:52] Accessing courses.php
+[2024-09-30 14:28:52] Courses page rendered successfully
+[2024-09-30 14:28:53] Accessing courses.php
+[2024-09-30 14:28:53] Courses page rendered successfully
+[2024-09-30 14:28:57] Accessing login_admin.php
+[2024-09-30 14:28:57] Accessed login_admin.php via GET request
+[2024-09-30 14:29:01] Accessing login_admin.php
+[2024-09-30 14:29:01] Received POST data: Array
+(
+    [username] => admin
+    [password] => admin
+)
+
+[2024-09-30 14:29:01] Admin logged in successfully: admin
+[2024-09-30 14:29:01] Admin accessed dashboard: admin
+[30-Sep-2024 14:29:01 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/admin_dashboard.php on line 67
+[30-Sep-2024 14:29:01 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/admin_dashboard.php on line 68
+[2024-09-30 14:30:37] Admin accessed dashboard: admin
+[30-Sep-2024 14:30:37 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/admin_dashboard.php on line 67
+[30-Sep-2024 14:30:37 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/admin_dashboard.php on line 68
+[2024-09-30 14:31:30] Accessing courses.php
+[2024-09-30 14:31:30] Courses page rendered successfully
+[2024-09-30 14:32:24] Admin accessed dashboard: admin
+[30-Sep-2024 14:32:24 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/admin_dashboard.php on line 67
+[30-Sep-2024 14:32:24 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/admin_dashboard.php on line 68
+[2024-09-30 14:32:50] Admin accessed dashboard: admin
+[30-Sep-2024 14:32:50 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/admin_dashboard.php on line 67
+[30-Sep-2024 14:32:50 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/admin_dashboard.php on line 68
+[2024-09-30 14:32:58] Admin accessed dashboard: admin
+[30-Sep-2024 14:32:58 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/admin_dashboard.php on line 67
+[30-Sep-2024 14:32:58 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/admin_dashboard.php on line 68
+[2024-09-30 14:33:04] Admin accessed dashboard: admin
+[30-Sep-2024 14:33:04 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/admin_dashboard.php on line 67
+[30-Sep-2024 14:33:04 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/admin_dashboard.php on line 68
+[2024-09-30 14:33:06] Admin accessed dashboard: admin
+[30-Sep-2024 14:33:06 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/admin_dashboard.php on line 67
+[30-Sep-2024 14:33:06 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/admin_dashboard.php on line 68
+[2024-09-30 14:33:08] Admin accessed dashboard: admin
+[30-Sep-2024 14:33:08 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/admin_dashboard.php on line 67
+[30-Sep-2024 14:33:08 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/admin_dashboard.php on line 68
+[2024-09-30 14:40:10] Admin accessed dashboard: admin
+[2024-09-30 14:40:17] Admin accessed dashboard: admin
+[30-Sep-2024 14:40:18 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/edit_course.php on line 43
+[30-Sep-2024 14:40:18 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/edit_course.php on line 48
+[2024-09-30 14:40:31] Course updated: mehrad
+[2024-09-30 14:40:31] Admin accessed dashboard: admin
+[2024-09-30 14:40:35] Accessing courses.php
+[2024-09-30 14:40:35] Courses page rendered successfully
+[2024-09-30 14:40:40] Admin accessed dashboard: admin
+[2024-09-30 14:40:44] Admin accessed dashboard: admin
+[2024-09-30 14:41:10] New course added: 
+[2024-09-30 14:41:10] Admin accessed dashboard: admin
+[2024-09-30 14:41:17] Admin accessed dashboard: admin
+[2024-09-30 14:41:22] Admin accessed dashboard: admin
+[2024-09-30 14:41:40] Admin accessed dashboard: admin
+[2024-09-30 14:41:45] Admin accessed dashboard: admin
+[2024-09-30 14:41:59] Course updated: mehr
+[2024-09-30 14:41:59] Admin accessed dashboard: admin
+[2024-09-30 14:42:10] Course deleted: ID 2
+[2024-09-30 14:42:10] Admin accessed dashboard: admin
+[2024-09-30 14:42:35] Admin accessed dashboard: admin
+[2024-09-30 14:59:12] Admin accessed dashboard: admin
+[2024-09-30 14:59:33] Admin accessed dashboard: admin
+[2024-09-30 14:59:38] Course updated: mehrad
+[2024-09-30 14:59:45] Accessing courses.php
+[2024-09-30 14:59:45] Courses page rendered successfully
+[2024-09-30 15:00:20] Accessing courses.php
+[2024-09-30 15:00:20] Courses page rendered successfully
+[2024-09-30 15:00:26] Admin accessed dashboard: admin
+[2024-09-30 15:00:47] New course added: 
+[2024-09-30 15:00:58] Admin accessed dashboard: admin
+[2024-09-30 15:01:44] Accessing courses.php
+[2024-09-30 15:01:44] Courses page rendered successfully
+[2024-09-30 15:03:07] Accessing courses.php
+[2024-09-30 15:03:07] Courses page rendered successfully
+[2024-09-30 15:03:11] Accessing courses.php
+[2024-09-30 15:03:11] Courses page rendered successfully
+[2024-09-30 15:03:13] Admin accessed dashboard: admin
+[2024-09-30 15:04:44] New course added: 
+[2024-09-30 15:05:47] Accessing courses.php
+[2024-09-30 15:05:47] Courses page rendered successfully
+[2024-09-30 15:12:00] Admin accessed dashboard: admin
+[2024-09-30 15:12:04] Course deleted: ID 3
+[2024-09-30 15:12:04] Admin accessed dashboard: admin
+[2024-09-30 15:12:09] Course deleted: ID 2
+[2024-09-30 15:12:09] Admin accessed dashboard: admin
+[30-Sep-2024 15:12:37 UTC] PHP Warning:  Undefined array key "image" in /Users/mehrad/Documents/shahab/process_add_course.php on line 34
+[30-Sep-2024 15:12:37 UTC] PHP Warning:  Trying to access array offset on null in /Users/mehrad/Documents/shahab/process_add_course.php on line 34
+[2024-09-30 15:12:37] Image upload error: 
+[2024-09-30 15:12:37] New course added: 
+[2024-09-30 15:12:58] Accessing courses.php
+[2024-09-30 15:12:58] Courses page rendered successfully
+[2024-09-30 15:21:00] Accessing courses.php
+[2024-09-30 15:21:00] Courses page rendered successfully
+[2024-09-30 15:21:02] Admin accessed dashboard: admin
+[2024-09-30 15:21:07] Course deleted: ID 2
+[2024-09-30 15:21:07] Admin accessed dashboard: admin
+[2024-09-30 15:22:52] New course added: test 6
+[2024-09-30 15:22:59] Accessing courses.php
+[2024-09-30 15:22:59] Courses page rendered successfully
+[2024-09-30 15:23:02] Login member form submitted
+[2024-09-30 15:23:07] Login member form submitted
+[2024-09-30 15:23:07] Received POST data: Array
+(
+    [username] => mehrad
+    [password] => mehrad
+)
+
+[2024-09-30 15:23:07] User logged in successfully: mehrad
+[2024-09-30 15:23:07] Accessing client_dashboard.php
+[2024-09-30 15:23:07] User logged in: mehrad
+[2024-09-30 15:23:07] Client dashboard rendered successfully
+[2024-09-30 15:23:13] Accessing courses.php
+[2024-09-30 15:23:13] Courses page rendered successfully
+[2024-09-30 15:23:14] Accessing course_detail.php
+[2024-09-30 15:23:14] Course not found: 2
+[2024-09-30 15:23:14] Accessing courses.php
+[2024-09-30 15:23:14] Courses page rendered successfully
+[2024-09-30 15:23:16] Accessing course_detail.php
+[2024-09-30 15:23:16] Course not found: 2
+[2024-09-30 15:23:16] Accessing courses.php
+[2024-09-30 15:23:16] Courses page rendered successfully
+[2024-09-30 15:23:16] Accessing course_detail.php
+[2024-09-30 15:23:16] Course not found: 2
+[2024-09-30 15:23:16] Accessing courses.php
+[2024-09-30 15:23:16] Courses page rendered successfully
+[2024-09-30 15:23:16] Accessing course_detail.php
+[2024-09-30 15:23:16] Course not found: 2
+[2024-09-30 15:23:16] Accessing courses.php
+[2024-09-30 15:23:16] Courses page rendered successfully
+[2024-09-30 15:23:24] Accessing courses.php
+[2024-09-30 15:23:24] Courses page rendered successfully
+[2024-09-30 15:23:25] Accessing courses.php
+[2024-09-30 15:23:25] Courses page rendered successfully
+[2024-09-30 15:23:26] Accessing courses.php
+[2024-09-30 15:23:26] Courses page rendered successfully
+[2024-09-30 15:23:27] Accessing courses.php
+[2024-09-30 15:23:27] Courses page rendered successfully
+[2024-09-30 15:23:29] Accessing client_dashboard.php
+[2024-09-30 15:23:29] User logged in: mehrad
+[2024-09-30 15:23:29] Client dashboard rendered successfully
+[2024-09-30 15:25:57] Accessing courses.php
+[2024-09-30 15:25:57] Courses page rendered successfully
+[2024-09-30 15:25:58] Accessing course_detail.php
+[2024-09-30 15:25:58] Course not found: 2
+[2024-09-30 15:25:58] Accessing courses.php
+[2024-09-30 15:25:58] Courses page rendered successfully
+[2024-09-30 15:25:59] Accessing course_detail.php
+[2024-09-30 15:25:59] Course detail page rendered successfully for course ID: 1
+[2024-09-30 15:26:02] Accessing courses.php
+[2024-09-30 15:26:02] Courses page rendered successfully
+[2024-09-30 15:27:15] Accessing course_detail.php
+[2024-09-30 15:27:15] Course detail page rendered successfully for course ID: 1
+[2024-09-30 15:27:16] Accessing course_content.php
+[2024-09-30 15:27:16] Course content page rendered successfully for course ID: 1, lesson ID: 1
+[2024-09-30 15:30:21] Accessing client_dashboard.php
+[2024-09-30 15:30:21] User logged in: mehrad
+[2024-09-30 15:30:21] Client dashboard rendered successfully
+[2024-09-30 15:30:23] Accessing course_content.php
+[2024-09-30 15:30:23] Course content page rendered successfully for course ID: 1
+[2024-09-30 15:30:28] Accessing courses.php
+[2024-09-30 15:30:28] Courses page rendered successfully
+[2024-09-30 15:30:28] Accessing courses.php
+[2024-09-30 15:30:28] Courses page rendered successfully
+[2024-09-30 15:30:30] Accessing client_dashboard.php
+[2024-09-30 15:30:30] User logged in: mehrad
+[2024-09-30 15:30:30] Client dashboard rendered successfully
+[2024-09-30 15:30:31] Accessing course_content.php
+[2024-09-30 15:30:31] Course content page rendered successfully for course ID: 1
+[2024-09-30 15:30:34] Accessing courses.php
+[2024-09-30 15:30:34] Courses page rendered successfully
+[2024-09-30 15:30:38] Accessing courses.php
+[2024-09-30 15:30:38] Courses page rendered successfully
+[2024-09-30 15:30:41] Accessing client_dashboard.php
+[2024-09-30 15:30:41] User logged in: mehrad
+[2024-09-30 15:30:41] Client dashboard rendered successfully
+[2024-09-30 15:30:42] Accessing courses.php
+[2024-09-30 15:30:42] Courses page rendered successfully
+[2024-09-30 15:30:43] Accessing course_detail.php
+[2024-09-30 15:30:43] Course detail page rendered successfully for course ID: 2
+[2024-09-30 15:30:53] Accessing enroll.php
+[2024-09-30 15:30:53] User mehrad enrolled in course 2
+[2024-09-30 15:30:53] Accessing course_content.php
+[2024-09-30 15:30:53] Course content page rendered successfully for course ID: 2
+[2024-09-30 15:32:17] Admin accessed dashboard: mehrad
+[2024-09-30 15:34:06] Accessing client_dashboard.php
+[2024-09-30 15:34:06] User logged in: mehrad
+[2024-09-30 15:34:06] Client dashboard rendered successfully
+[2024-09-30 15:34:08] Accessing course_content.php
+[2024-09-30 15:34:08] Course content page rendered successfully for course ID: 2
+[2024-09-30 15:37:15] Accessing client_dashboard.php
+[2024-09-30 15:37:15] User logged in: mehrad
+[2024-09-30 15:37:15] Client dashboard rendered successfully
+[2024-09-30 15:37:17] Accessing course_content.php
+[2024-09-30 15:37:17] Course content page rendered successfully for course ID: 2
+[2024-09-30 15:37:34] Admin accessed dashboard: mehrad
+[2024-09-30 15:38:45] Course updated: Animation Music
+[2024-09-30 15:39:02] Accessing courses.php
+[2024-09-30 15:39:02] Courses page rendered successfully
+[2024-09-30 15:39:06] Accessing courses.php
+[2024-09-30 15:39:06] Courses page rendered successfully
+[2024-09-30 15:39:08] Admin accessed dashboard: mehrad
+[30-Sep-2024 15:39:13 UTC] PHP Warning:  unlink(uploads/images/): Operation not permitted in /Users/mehrad/Documents/shahab/delete_course.php on line 35
+[2024-09-30 15:39:13] Course deleted: ID 1
+[2024-09-30 15:39:13] Admin accessed dashboard: mehrad
+[2024-09-30 15:39:16] Admin accessed dashboard: mehrad
+[2024-09-30 15:39:18] Accessing courses.php
+[2024-09-30 15:39:18] Courses page rendered successfully
+[2024-09-30 15:39:21] Accessing client_dashboard.php
+[2024-09-30 15:39:21] User logged in: mehrad
+[2024-09-30 15:39:21] Client dashboard rendered successfully
+[2024-09-30 15:39:24] Accessing course_content.php
+[2024-09-30 15:39:24] Course content page rendered successfully for course ID: 2
+[2024-09-30 17:29:35] Accessing course_content.php
+[2024-09-30 17:29:35] Course content page rendered successfully for course ID: 2
+[2024-09-30 17:29:40] Accessing course_content.php
+[2024-09-30 17:29:40] Course content page rendered successfully for course ID: 2
+[2024-09-30 17:29:43] Accessing course_content.php
+[2024-09-30 17:29:43] Course content page rendered successfully for course ID: 2
+[2024-09-30 17:29:59] User logged out: mehrad
+[2024-09-30 17:30:01] Accessing login_admin.php
+[2024-09-30 17:30:01] Accessed login_admin.php via GET request
+[2024-09-30 17:30:10] Accessing login_admin.php
+[2024-09-30 17:30:10] Received POST data: Array
+(
+    [username] => admin
+    [password] => admin
+)
+
+[2024-09-30 17:30:10] Admin logged in successfully: admin
+[2024-09-30 17:30:10] Admin accessed dashboard: admin
+[2024-09-30 17:31:06] Admin accessed dashboard: admin
+[2024-09-30 17:31:15] Admin accessed dashboard: admin
+[2024-09-30 17:31:18] Accessing courses.php
+[2024-09-30 17:31:18] Courses page rendered successfully
+[2024-09-30 17:31:25] Login member form submitted
+[2024-09-30 17:31:30] Login member form submitted
+[2024-09-30 17:31:30] Received POST data: Array
+(
+    [username] => mehrad
+    [password] => mehrad
+)
+
+[2024-09-30 17:31:30] User logged in successfully: mehrad
+[2024-09-30 17:31:30] Accessing client_dashboard.php
+[2024-09-30 17:31:30] User logged in: mehrad
+[2024-09-30 17:31:30] Client dashboard rendered successfully
+[2024-09-30 17:31:47] Accessing courses.php
+[2024-09-30 17:31:47] Courses page rendered successfully
+[2024-09-30 17:31:51] Accessing courses.php
+[2024-09-30 17:31:51] Courses page rendered successfully
+[2024-09-30 17:31:53] Accessing client_dashboard.php
+[2024-09-30 17:31:53] User logged in: mehrad
+[2024-09-30 17:31:53] Client dashboard rendered successfully
+[2024-09-30 17:31:55] Accessing course_content.php
+[2024-09-30 17:31:55] Course content page rendered successfully for course ID: 2
+[2024-09-30 17:32:20] Accessing course_content.php
+[2024-09-30 17:32:20] Course content page rendered successfully for course ID: 2
+[2024-09-30 17:32:57] Admin accessed dashboard: mehrad
+[2024-09-30 17:32:59] Accessing courses.php
+[2024-09-30 17:32:59] Courses page rendered successfully
+[2024-09-30 17:33:01] Accessing courses.php
+[2024-09-30 17:33:01] Courses page rendered successfully
+[2024-09-30 17:33:18] Accessing client_dashboard.php
+[2024-09-30 17:33:18] User logged in: mehrad
+[2024-09-30 17:33:18] Client dashboard rendered successfully
+[2024-09-30 17:33:33] Accessing course_content.php
+[2024-09-30 17:33:33] Course content page rendered successfully for course ID: 2
+[2024-09-30 17:33:36] Accessing course_content.php
+[2024-09-30 17:33:36] Course content page rendered successfully for course ID: 2
+[2024-10-01 22:20:42] Accessing client_dashboard.php
+[2024-10-01 22:20:42] User logged in: mehrad
+[2024-10-01 22:20:42] Client dashboard rendered successfully
+[2024-10-01 22:20:44] Accessing course_content.php
+[2024-10-01 22:20:44] Course content page rendered successfully for course ID: 2
+[2024-10-01 22:20:54] Accessing course_content.php
+[2024-10-01 22:20:54] Course content page rendered successfully for course ID: 2
+[2024-10-01 22:21:01] Accessing courses.php
+[2024-10-01 22:21:01] Courses page rendered successfully
+[2024-10-01 22:21:04] Accessing course_detail.php
+[2024-10-01 22:21:04] Course detail page rendered successfully for course ID: 2
+[2024-10-01 22:21:05] Accessing course_content.php
+[2024-10-01 22:21:05] Course content page rendered successfully for course ID: 2
+[2024-10-01 22:21:11] Admin accessed dashboard: mehrad
+[2024-10-01 22:34:57] Admin accessed dashboard: mehrad
+[2024-10-01 22:35:01] Accessing courses.php
+[2024-10-01 22:35:01] Courses page rendered successfully
+[2024-10-01 22:35:03] Accessing course_detail.php
+[2024-10-01 22:35:03] Course detail page rendered successfully for course ID: 2
+[2024-10-01 22:35:05] Accessing course_content.php
+[2024-10-01 22:35:05] Course content page rendered successfully for course ID: 2
+[2024-10-02 18:45:01] Registration form submitted
+[2024-10-02 18:45:24] Registration form submitted
+[2024-10-02 18:45:24] Received POST data: Array
+(
+    [username] => m
+    [password] => m
+    [email] => m@gmail.com
+)
+
+[2024-10-02 18:45:24] User registered successfully: m (m@gmail.com)
+[2024-10-02 18:45:24] Accessing client_dashboard.php
+[2024-10-02 18:45:24] User logged in: m
+[2024-10-02 18:45:24] Client dashboard rendered successfully
+[2024-10-02 18:45:55] Accessing courses.php
+[2024-10-02 18:45:55] Courses page rendered successfully
+[2024-10-02 18:46:01] Accessing course_detail.php
+[2024-10-02 18:46:01] Course detail page rendered successfully for course ID: 2
+[2024-10-02 18:46:22] Accessing enroll.php
+[2024-10-02 18:46:22] User m enrolled in course 2
+[2024-10-02 18:46:22] Accessing course_content.php
+[2024-10-02 18:46:22] Course content page rendered successfully for course ID: 2
+[2024-10-02 18:46:46] Accessing course_content.php
+[2024-10-02 18:46:46] Course content page rendered successfully for course ID: 2
+[2024-10-02 18:46:53] Accessing course_content.php
+[2024-10-02 18:46:53] Course content page rendered successfully for course ID: 2
+[2024-10-02 18:46:57] Accessing course_content.php
+[2024-10-02 18:46:57] Course content page rendered successfully for course ID: 2
+[2024-10-02 18:47:16] Accessing courses.php
+[2024-10-02 18:47:16] Courses page rendered successfully
+[2024-10-02 18:47:26] Accessing client_dashboard.php
+[2024-10-02 18:47:26] User logged in: m
+[2024-10-02 18:47:26] Client dashboard rendered successfully
+[2024-10-02 18:47:49] User logged out: m
+[2024-10-02 18:47:50] Accessing login_admin.php
+[2024-10-02 18:47:50] Accessed login_admin.php via GET request
+[2024-10-02 18:48:03] Accessing login_admin.php
+[2024-10-02 18:48:03] Received POST data: Array
+(
+    [username] => admin
+    [password] => admin
+)
+
+[2024-10-02 18:48:03] Admin logged in successfully: admin
+[2024-10-02 18:48:03] Admin accessed dashboard: admin
+[2024-10-02 18:49:01] Course updated: Animation Music
+[2024-10-02 18:49:19] Accessing login_admin.php
+[2024-10-02 18:49:19] Accessed login_admin.php via GET request
+[2024-10-02 18:49:23] Admin accessed dashboard: admin
+[2024-10-02 18:49:24] Admin accessed dashboard: admin
+[2024-10-06 23:37:15] Login member form submitted
+[2024-10-06 23:37:19] Login member form submitted
+[2024-10-06 23:37:19] Received POST data: Array
+(
+    [username] => mehrad
+    [password] => mehrad
+)
+
+[2024-10-06 23:37:20] User logged in successfully: mehrad
+[2024-10-06 23:37:20] Accessing client_dashboard.php
+[2024-10-06 23:37:20] User logged in: mehrad
+[2024-10-06 23:37:20] Client dashboard rendered successfully
+[2024-10-06 23:37:23] Accessing course_content.php
+[2024-10-06 23:37:23] Course content page rendered successfully for course ID: 2
+[2024-10-06 23:37:34] Accessing lesson.php
+[2024-10-06 23:37:34] Lesson page rendered successfully for course ID: 2, lesson ID: 0
+[2024-10-06 23:37:41] Accessing lesson.php
+[2024-10-06 23:37:41] Lesson page rendered successfully for course ID: 2, lesson ID: 1
+[2024-10-06 23:37:53] Accessing lesson.php
+[2024-10-06 23:37:53] Lesson page rendered successfully for course ID: 2, lesson ID: 0
+[2024-10-06 23:37:54] Accessing lesson.php
+[2024-10-06 23:37:54] Lesson page rendered successfully for course ID: 2, lesson ID: 1
+[2024-10-06 23:37:56] Accessing course_content.php
+[2024-10-06 23:37:56] Course content page rendered successfully for course ID: 2
+[2024-10-06 23:37:59] Accessing courses.php
+[2024-10-06 23:37:59] Courses page rendered successfully
+[2024-10-06 23:38:00] Accessing courses.php
+[2024-10-06 23:38:00] Courses page rendered successfully
+[2024-10-06 23:38:02] Accessing courses.php
+[2024-10-06 23:38:02] Courses page rendered successfully
+[2024-10-06 23:38:03] Accessing courses.php
+[2024-10-06 23:38:03] Courses page rendered successfully
+[2024-10-06 23:38:04] Accessing client_dashboard.php
+[2024-10-06 23:38:04] User logged in: mehrad
+[2024-10-06 23:38:04] Client dashboard rendered successfully
+[2024-10-06 23:42:16] Accessing course_content.php
+[2024-10-06 23:42:16] Course content page rendered successfully for course ID: 2
+[2024-10-06 23:42:21] Accessing lesson.php
+[2024-10-06 23:42:21] Lesson page rendered successfully for course ID: 2, lesson ID: 0
+[2024-10-06 23:42:24] Accessing course_content.php
+[2024-10-06 23:42:24] Course content page rendered successfully for course ID: 2
+[2024-10-06 23:48:11] Accessing client_dashboard.php
+[2024-10-06 23:48:11] User logged in: mehrad
+[2024-10-06 23:48:11] Client dashboard rendered successfully
+[2024-10-06 23:48:17] Accessing client_dashboard.php
+[2024-10-06 23:48:17] User logged in: mehrad
+[2024-10-06 23:48:17] Client dashboard rendered successfully
+[2024-10-06 23:48:20] Accessing client_dashboard.php
+[2024-10-06 23:48:20] User logged in: mehrad
+[2024-10-06 23:48:20] Client dashboard rendered successfully
+[2024-10-06 23:48:23] Accessing client_dashboard.php
+[2024-10-06 23:48:23] User logged in: mehrad
+[2024-10-06 23:48:23] Client dashboard rendered successfully
+[2024-10-06 23:48:27] Accessing course_content.php
+[2024-10-06 23:48:27] Course content page rendered successfully for course ID: 2
+[2024-10-06 23:48:30] Accessing lesson.php
+[2024-10-06 23:48:30] Lesson page rendered successfully for course ID: 2, lesson ID: 1
+[2024-10-06 23:48:34] Accessing lesson.php
+[2024-10-06 23:48:34] Lesson page rendered successfully for course ID: 2, lesson ID: 0
+[2024-10-06 23:48:36] Accessing lesson.php
+[2024-10-06 23:48:36] Lesson page rendered successfully for course ID: 2, lesson ID: 1
+[2024-10-06 23:48:37] Accessing course_content.php
+[2024-10-06 23:48:37] Course content page rendered successfully for course ID: 2
+[2024-10-06 23:49:08] Accessing lesson.php
+[2024-10-06 23:49:08] Lesson page rendered successfully for course ID: 2, lesson ID: 0
+[2024-10-06 23:49:09] Accessing lesson.php
+[2024-10-06 23:49:09] Lesson page rendered successfully for course ID: 2, lesson ID: 1
+[2024-10-06 23:49:21] Accessing lesson.php
+[2024-10-06 23:49:21] Lesson page rendered successfully for course ID: 2, lesson ID: 0
+[2024-10-06 23:49:22] Accessing course_content.php
+[2024-10-06 23:49:22] Course content page rendered successfully for course ID: 2
+[2024-10-06 23:55:30] Accessing course_content.php
+[2024-10-06 23:55:30] Course content page rendered successfully for course ID: 2
+[2024-10-06 23:57:17] Accessing lesson.php
+[2024-10-06 23:57:17] Lesson page rendered successfully for course ID: 2, lesson ID: 0
+[2024-10-06 23:57:21] Accessing lesson.php
+[2024-10-06 23:57:21] Lesson page rendered successfully for course ID: 2, lesson ID: 1
+[2024-10-06 23:57:23] Accessing complete_course.php
+[2024-10-06 23:57:23] Course completed: User mehrad, Course ID 2
+[2024-10-06 23:57:23] Accessing client_dashboard.php
+[2024-10-06 23:57:23] User logged in: mehrad
+[2024-10-06 23:57:23] Client dashboard rendered successfully
+[2024-10-06 23:57:33] Accessing client_dashboard.php
+[2024-10-06 23:57:33] User logged in: mehrad
+[2024-10-06 23:57:33] Client dashboard rendered successfully
+[2024-10-06 23:57:39] Accessing client_dashboard.php
+[2024-10-06 23:57:39] User logged in: mehrad
+[2024-10-06 23:57:39] Client dashboard rendered successfully
+[2024-10-06 23:57:42] Accessing courses.php
+[2024-10-06 23:57:42] Courses page rendered successfully
+[2024-10-06 23:57:44] Accessing course_detail.php
+[2024-10-06 23:57:44] Course detail page rendered successfully for course ID: 2
+[2024-10-06 23:57:53] Accessing course_content.php
+[2024-10-06 23:57:53] Course content page rendered successfully for course ID: 2
+[2024-10-06 23:58:01] Accessing lesson.php
+[2024-10-06 23:58:01] Lesson page rendered successfully for course ID: 2, lesson ID: 0
+[2024-10-06 23:58:33] Accessing course_content.php
+[2024-10-06 23:58:33] Course content page rendered successfully for course ID: 2
+[2024-10-07 00:00:58] Accessing client_dashboard.php
+[2024-10-07 00:00:58] User logged in: mehrad
+[2024-10-07 00:00:58] Client dashboard rendered successfully
+[2024-10-07 00:01:03] Accessing client_dashboard.php
+[2024-10-07 00:01:03] User logged in: mehrad
+[2024-10-07 00:01:03] Client dashboard rendered successfully
+[2024-10-07 00:01:05] Accessing course_content.php
+[2024-10-07 00:01:05] Course content page rendered successfully for course ID: 2
+[2024-10-07 00:01:08] Accessing courses.php
+[2024-10-07 00:01:08] Courses page rendered successfully
+[2024-10-07 00:01:32] Accessing course_detail.php
+[2024-10-07 00:01:32] Course detail page rendered successfully for course ID: 2
+[2024-10-07 00:01:34] Accessing course_content.php
+[2024-10-07 00:01:34] Course content page rendered successfully for course ID: 2
+[2024-10-07 00:01:39] Accessing lesson.php
+[2024-10-07 00:01:39] Lesson page rendered successfully for course ID: 2, lesson ID: 0
+[2024-10-07 00:01:41] Accessing course_content.php
+[2024-10-07 00:01:41] Course content page rendered successfully for course ID: 2
+[2024-10-07 00:01:42] Accessing lesson.php
+[2024-10-07 00:01:42] Lesson page rendered successfully for course ID: 2, lesson ID: 0
+[2024-10-07 00:01:47] Accessing lesson.php
+[2024-10-07 00:01:47] Lesson page rendered successfully for course ID: 2, lesson ID: 1
+[2024-10-07 00:01:51] Accessing complete_course.php
+[2024-10-07 00:01:51] Course completed: User mehrad, Course ID 2
+[2024-10-07 00:01:51] Accessing client_dashboard.php
+[2024-10-07 00:01:51] User logged in: mehrad
+[2024-10-07 00:01:51] Client dashboard rendered successfully
+[2024-10-07 00:01:59] Accessing client_dashboard.php
+[2024-10-07 00:01:59] User logged in: mehrad
+[2024-10-07 00:01:59] Client dashboard rendered successfully
+[2024-10-07 00:05:48] Accessing course_content.php
+[2024-10-07 00:05:48] Course content page rendered successfully for course ID: 2
+[2024-10-07 00:05:50] Accessing lesson.php
+[2024-10-07 00:05:50] Lesson page rendered successfully for course ID: 2, lesson ID: 0
+[2024-10-07 00:05:54] Accessing lesson.php
+[2024-10-07 00:05:54] Lesson page rendered successfully for course ID: 2, lesson ID: 1
+[2024-10-07 00:05:56] Accessing complete_course.php
+[2024-10-07 00:05:56] Course completed: User mehrad, Course ID 2
+[2024-10-07 00:05:56] Accessing client_dashboard.php
+[2024-10-07 00:05:56] User logged in: mehrad
+[2024-10-07 00:05:56] Client dashboard rendered successfully
+[2024-10-07 00:06:02] Accessing client_dashboard.php
+[2024-10-07 00:06:02] User logged in: mehrad
+[2024-10-07 00:06:02] Client dashboard rendered successfully
+[2024-10-07 00:15:31] Accessing client_dashboard.php
+[2024-10-07 00:15:31] User logged in: mehrad
+[07-Oct-2024 00:15:31 UTC] PHP Warning:  Undefined variable $enrolledCourses in /Users/mehrad/Documents/shahab/client_dashboard.php on line 52
+[07-Oct-2024 00:15:31 UTC] PHP Fatal error:  Uncaught TypeError: array_filter(): Argument #1 ($array) must be of type array, null given in /Users/mehrad/Documents/shahab/client_dashboard.php:52
+Stack trace:
+#0 /Users/mehrad/Documents/shahab/client_dashboard.php(52): array_filter(NULL, Object(Closure))
+#1 {main}
+  thrown in /Users/mehrad/Documents/shahab/client_dashboard.php on line 52
+[2024-10-07 00:16:23] Accessing courses.php
+[2024-10-07 00:16:23] Courses page rendered successfully
+[2024-10-07 00:16:26] Accessing client_dashboard.php
+[2024-10-07 00:16:26] User logged in: mehrad
+[07-Oct-2024 00:16:26 UTC] PHP Warning:  Undefined variable $enrolledCourses in /Users/mehrad/Documents/shahab/client_dashboard.php on line 52
+[07-Oct-2024 00:16:26 UTC] PHP Fatal error:  Uncaught TypeError: array_filter(): Argument #1 ($array) must be of type array, null given in /Users/mehrad/Documents/shahab/client_dashboard.php:52
+Stack trace:
+#0 /Users/mehrad/Documents/shahab/client_dashboard.php(52): array_filter(NULL, Object(Closure))
+#1 {main}
+  thrown in /Users/mehrad/Documents/shahab/client_dashboard.php on line 52
+[2024-10-07 00:16:27] Accessing client_dashboard.php
+[2024-10-07 00:16:27] User logged in: mehrad
+[07-Oct-2024 00:16:27 UTC] PHP Warning:  Undefined variable $enrolledCourses in /Users/mehrad/Documents/shahab/client_dashboard.php on line 52
+[07-Oct-2024 00:16:27 UTC] PHP Fatal error:  Uncaught TypeError: array_filter(): Argument #1 ($array) must be of type array, null given in /Users/mehrad/Documents/shahab/client_dashboard.php:52
+Stack trace:
+#0 /Users/mehrad/Documents/shahab/client_dashboard.php(52): array_filter(NULL, Object(Closure))
+#1 {main}
+  thrown in /Users/mehrad/Documents/shahab/client_dashboard.php on line 52
+[2024-10-07 00:18:36] Accessing client_dashboard.php
+[2024-10-07 00:18:36] User logged in: mehrad
+[2024-10-07 00:18:36] Client dashboard rendered successfully
+[2024-10-07 00:18:47] Accessing courses.php
+[2024-10-07 00:18:47] Courses page rendered successfully
+[2024-10-07 00:18:48] Accessing course_detail.php
+[2024-10-07 00:18:48] Course detail page rendered successfully for course ID: 2
+[2024-10-07 00:18:51] Accessing course_content.php
+[2024-10-07 00:18:51] Course content page rendered successfully for course ID: 2
+[2024-10-07 00:18:52] Accessing lesson.php
+[2024-10-07 00:18:52] Lesson page rendered successfully for course ID: 2, lesson ID: 0
+[2024-10-07 00:18:55] Accessing lesson.php
+[2024-10-07 00:18:55] Lesson page rendered successfully for course ID: 2, lesson ID: 1
+[2024-10-07 00:18:57] Accessing complete_course.php
+[2024-10-07 00:18:57] Course completed: User mehrad, Course ID 2
+[2024-10-07 00:18:57] Accessing client_dashboard.php
+[2024-10-07 00:18:57] User logged in: mehrad
+[2024-10-07 00:18:57] Client dashboard rendered successfully
+[2024-10-07 00:19:35] Login member form submitted
+[2024-10-07 00:19:57] Login member form submitted
+[2024-10-07 00:20:05] Login member form submitted
+[2024-10-07 00:20:05] Received POST data: Array
+(
+    [username] => mehrad
+    [password] => mehrad
+)
+
+[2024-10-07 00:20:05] User logged in successfully: mehrad
+[2024-10-07 00:20:05] Accessing client_dashboard.php
+[2024-10-07 00:20:05] User logged in: mehrad
+[2024-10-07 00:20:05] Client dashboard rendered successfully
+[2024-10-07 00:20:18] Accessing client_dashboard.php
+[2024-10-07 00:20:18] User logged in: mehrad
+[2024-10-07 00:20:18] Client dashboard rendered successfully
+[2024-10-07 00:32:15] Login member form submitted
+[2024-10-07 00:32:22] Login member form submitted
+[2024-10-07 00:32:22] Received POST data: Array
+(
+    [username] => mehrad
+    [password] => mehradd
+)
+
+[2024-10-07 00:32:22] User logged in successfully: mehrad
+[2024-10-07 00:32:22] Accessing client_dashboard.php
+[2024-10-07 00:32:22] User logged in: mehrad
+[2024-10-07 00:32:22] Client dashboard rendered successfully
+[2024-10-07 00:32:28] Accessing courses.php
+[2024-10-07 00:32:28] Courses page rendered successfully
+[2024-10-07 00:32:34] Accessing client_dashboard.php
+[2024-10-07 00:32:34] User logged in: mehrad
+[2024-10-07 00:32:34] Client dashboard rendered successfully
+[2024-10-07 00:33:35] Accessing client_dashboard.php
+[2024-10-07 00:33:35] User logged in: mehrad
+[2024-10-07 00:33:35] Client dashboard rendered successfully
+[2024-10-07 00:33:38] Accessing client_dashboard.php
+[2024-10-07 00:33:38] User logged in: mehrad
+[2024-10-07 00:33:38] Client dashboard rendered successfully
+[2024-10-07 00:33:39] User logged out: mehrad
+[2024-10-07 00:33:52] Registration form submitted
+[2024-10-07 00:34:39] Registration form submitted
+[2024-10-07 00:34:39] Received POST data: Array
+(
+    [first_name] => mehrad 3
+    [last_name] => ta 3
+    [username] => mehrad3
+    [password] => mehrad3
+    [email] => mehradta3@gmail.com
+)
+
+[2024-10-07 00:34:39] User registered successfully: mehrad3 (mehradta3@gmail.com)
+[2024-10-07 00:34:39] Accessing client_dashboard.php
+[2024-10-07 00:34:39] User logged in: mehrad3
+[2024-10-07 00:34:39] Client dashboard rendered successfully
+[2024-10-07 00:34:45] Accessing courses.php
+[2024-10-07 00:34:45] Courses page rendered successfully
+[2024-10-07 00:34:45] Accessing course_detail.php
+[2024-10-07 00:34:45] Course detail page rendered successfully for course ID: 2
+[2024-10-07 00:34:47] Accessing enroll.php
+[2024-10-07 00:34:47] User mehrad3 enrolled in course 2
+[2024-10-07 00:34:47] Accessing course_content.php
+[2024-10-07 00:34:47] Course content page rendered successfully for course ID: 2
+[2024-10-07 00:34:48] Accessing lesson.php
+[2024-10-07 00:34:48] Lesson page rendered successfully for course ID: 2, lesson ID: 0
+[2024-10-07 00:34:53] Accessing lesson.php
+[2024-10-07 00:34:53] Lesson page rendered successfully for course ID: 2, lesson ID: 1
+[2024-10-07 00:35:04] Accessing complete_course.php
+[2024-10-07 00:35:04] Course completed: User mehrad3, Course ID 2
+[2024-10-07 00:35:04] Accessing client_dashboard.php
+[2024-10-07 00:35:04] User logged in: mehrad3
+[2024-10-07 00:35:04] Client dashboard rendered successfully
+[2024-10-07 00:39:22] Accessing client_dashboard.php
+[2024-10-07 00:39:22] User logged in: mehrad3
+[2024-10-07 00:39:22] Client dashboard rendered successfully
+[2024-10-07 00:39:29] Accessing course_content.php
+[2024-10-07 00:39:29] Course content page rendered successfully for course ID: 2
+[2024-10-07 00:39:31] Accessing lesson.php
+[2024-10-07 00:39:31] Lesson page rendered successfully for course ID: 2, lesson ID: 0
+[07-Oct-2024 00:46:59 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 42
+[07-Oct-2024 00:46:59 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 42
+[07-Oct-2024 00:47:03 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 42
+[07-Oct-2024 00:47:03 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 42
+[07-Oct-2024 00:47:13 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 42
+[07-Oct-2024 00:47:13 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 42
+[2024-10-07 00:47:13] Accessing courses.php
+[2024-10-07 00:47:13] Courses page rendered successfully
+[2024-10-07 00:47:14] Accessing course_detail.php
+[07-Oct-2024 00:47:14 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 42
+[07-Oct-2024 00:47:14 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 42
+[2024-10-07 00:47:14] Course detail page rendered successfully for course ID: 2
+[2024-10-07 00:47:16] Accessing course_content.php
+[07-Oct-2024 00:47:16 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 42
+[07-Oct-2024 00:47:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 42
+[2024-10-07 00:47:16] Course content page rendered successfully for course ID: 2
+[07-Oct-2024 00:52:42 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 44
+[07-Oct-2024 00:52:42 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 44
+[07-Oct-2024 00:52:44 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 44
+[07-Oct-2024 00:52:44 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 44
+[07-Oct-2024 00:52:51 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 44
+[07-Oct-2024 00:52:51 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 44
+[2024-10-07 00:52:51] Accessing courses.php
+[2024-10-07 00:52:51] Courses page rendered successfully
+[2024-10-07 00:52:55] Accessing course_detail.php
+[07-Oct-2024 00:52:55 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 44
+[07-Oct-2024 00:52:55 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 44
+[2024-10-07 00:52:55] Course detail page rendered successfully for course ID: 2
+[2024-10-07 00:52:57] Accessing course_content.php
+[07-Oct-2024 00:52:57 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 44
+[07-Oct-2024 00:52:57 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 44
+[2024-10-07 00:52:57] Course content page rendered successfully for course ID: 2
+[2024-10-07 00:52:59] Accessing client_dashboard.php
+[2024-10-07 00:52:59] User logged in: mehrad3
+[07-Oct-2024 00:52:59 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 44
+[07-Oct-2024 00:52:59 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 44
+[2024-10-07 00:52:59] Client dashboard rendered successfully
+[07-Oct-2024 00:53:02 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 44
+[07-Oct-2024 00:53:02 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 44
+[07-Oct-2024 00:53:04 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 44
+[07-Oct-2024 00:53:04 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 44
+[2024-10-07 00:53:04] Accessing courses.php
+[2024-10-07 00:53:04] Courses page rendered successfully
+[07-Oct-2024 00:53:05 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 44
+[07-Oct-2024 00:53:05 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 44
+[07-Oct-2024 00:53:06 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 44
+[07-Oct-2024 00:53:06 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 44
+[2024-10-07 00:53:06] Accessing courses.php
+[2024-10-07 00:53:06] Courses page rendered successfully
+[2024-10-07 00:53:08] Login member form submitted
+[07-Oct-2024 00:53:08 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 44
+[07-Oct-2024 00:53:08 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 44
+[2024-10-07 00:54:14] Accessing login_admin.php
+[2024-10-07 00:54:14] Accessed login_admin.php via GET request
+[07-Oct-2024 00:54:14 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 44
+[07-Oct-2024 00:54:14 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 44
+[2024-10-07 00:54:18] Accessing login_admin.php
+[2024-10-07 00:54:18] Received POST data: Array
+(
+    [username] => admin
+    [password] => admin
+)
+
+[2024-10-07 00:54:18] Admin logged in successfully: admin
+[2024-10-07 00:54:18] Admin accessed dashboard: admin
+[2024-10-07 00:54:26] Admin accessed dashboard: admin
+[2024-10-07 00:54:30] Admin accessed dashboard: admin
+[2024-10-07 00:54:38] Admin accessed dashboard: admin
+[2024-10-07 00:59:35] Admin accessed dashboard: admin
+[2024-10-07 01:00:21] Accessing client_dashboard.php
+[2024-10-07 01:00:21] User logged in: admin
+[2024-10-07 01:00:21] Client dashboard rendered successfully
+[2024-10-07 01:00:37] User logged out: admin
+[2024-10-07 01:00:41] Login member form submitted
+[2024-10-07 01:01:49] Login member form submitted
+[2024-10-07 01:01:49] Received POST data: Array
+(
+    [username] => mehrad
+    [password] => mehradd
+)
+
+[2024-10-07 01:01:49] Login attempt by suspended user: mehrad
+[2024-10-07 01:01:59] Login member form submitted
+[2024-10-07 01:02:10] Login member form submitted
+[2024-10-07 01:02:10] Received POST data: Array
+(
+    [username] => mehrad3
+    [password] => mehrad3
+)
+
+[2024-10-07 01:02:10] User logged in successfully: mehrad3
+[2024-10-07 01:02:10] Accessing client_dashboard.php
+[2024-10-07 01:02:10] User logged in: mehrad3
+[07-Oct-2024 01:02:10 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 44
+[07-Oct-2024 01:02:10 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 44
+[2024-10-07 01:02:10] Client dashboard rendered successfully
+[07-Oct-2024 01:02:15 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 44
+[07-Oct-2024 01:02:15 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 44
+[2024-10-07 01:02:17] Accessing client_dashboard.php
+[2024-10-07 01:02:17] User logged in: mehrad3
+[07-Oct-2024 01:02:17 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 44
+[07-Oct-2024 01:02:17 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 44
+[2024-10-07 01:02:17] Client dashboard rendered successfully
+[07-Oct-2024 01:02:19 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 44
+[07-Oct-2024 01:02:19 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 44
+[07-Oct-2024 01:02:35 UTC] PHP Warning:  move_uploaded_file(uploads/profile_pictures/mehrad3.png): Failed to open stream: No such file or directory in /Users/mehrad/Documents/shahab/edit_profile.php on line 39
+[07-Oct-2024 01:02:35 UTC] PHP Warning:  move_uploaded_file(): Unable to move &quot;/private/var/folders/4d/56n5cctd0y907v4y01knq03w0000gn/T/phpMzy5G4&quot; to &quot;uploads/profile_pictures/mehrad3.png&quot; in /Users/mehrad/Documents/shahab/edit_profile.php on line 39
+[07-Oct-2024 01:02:35 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 44
+[07-Oct-2024 01:02:35 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 44
+[07-Oct-2024 01:02:40 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 44
+[07-Oct-2024 01:02:40 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 44
+[07-Oct-2024 01:02:50 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 44
+[07-Oct-2024 01:02:50 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 44
+[2024-10-07 01:02:50] Accessing courses.php
+[2024-10-07 01:02:50] Courses page rendered successfully
+[2024-10-07 01:06:05] Login member form submitted
+[07-Oct-2024 01:06:05 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 44
+[07-Oct-2024 01:06:05 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 44
+[07-Oct-2024 01:06:09 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 44
+[07-Oct-2024 01:06:09 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 44
+[2024-10-07 01:06:09] Accessing courses.php
+[2024-10-07 01:06:09] Courses page rendered successfully
+[07-Oct-2024 01:06:10 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 44
+[07-Oct-2024 01:06:10 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 44
+[2024-10-07 01:06:14] Accessing client_dashboard.php
+[2024-10-07 01:06:14] User logged in: mehrad3
+[07-Oct-2024 01:06:14 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 44
+[07-Oct-2024 01:06:14 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 44
+[2024-10-07 01:06:14] Client dashboard rendered successfully
+[2024-10-07 01:06:26] Accessing client_dashboard.php
+[2024-10-07 01:06:26] User logged in: mehrad3
+[07-Oct-2024 01:06:26 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 44
+[07-Oct-2024 01:06:26 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 44
+[2024-10-07 01:06:26] Client dashboard rendered successfully
+[2024-10-07 01:18:23] Accessing client_dashboard.php
+[2024-10-07 01:18:23] User logged in: mehrad3
+[07-Oct-2024 01:18:23 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 44
+[07-Oct-2024 01:18:23 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 44
+[2024-10-07 01:18:23] Client dashboard rendered successfully
+[07-Oct-2024 01:18:27 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 44
+[07-Oct-2024 01:18:27 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 44
+[07-Oct-2024 01:18:32 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 44
+[07-Oct-2024 01:18:32 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 44
+[07-Oct-2024 01:18:33 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 44
+[07-Oct-2024 01:18:33 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 44
+[07-Oct-2024 01:35:48 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 44
+[07-Oct-2024 01:35:48 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 44
+[2024-10-07 01:35:48] Accessing courses.php
+[2024-10-07 01:35:48] Courses page rendered successfully
+[07-Oct-2024 01:35:49 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 44
+[07-Oct-2024 01:35:49 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 44
+[2024-10-07 01:35:49] Accessing courses.php
+[2024-10-07 01:35:49] Courses page rendered successfully
+[07-Oct-2024 01:35:50 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 44
+[07-Oct-2024 01:35:50 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 44
+[07-Oct-2024 01:35:52 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 44
+[07-Oct-2024 01:35:52 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 44
+[2024-10-07 01:35:52] Accessing courses.php
+[2024-10-07 01:35:52] Courses page rendered successfully
+[2024-10-07 01:35:54] Accessing course_detail.php
+[07-Oct-2024 01:35:54 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 44
+[07-Oct-2024 01:35:54 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 44
+[2024-10-07 01:35:54] Course detail page rendered successfully for course ID: 2
+[2024-10-07 01:35:55] Accessing course_content.php
+[07-Oct-2024 01:35:55 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 44
+[07-Oct-2024 01:35:55 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 44
+[2024-10-07 01:35:55] Course content page rendered successfully for course ID: 2
+[2024-10-07 01:35:57] Accessing lesson.php
+[07-Oct-2024 01:35:57 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 44
+[07-Oct-2024 01:35:57 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 44
+[2024-10-07 01:35:57] Lesson page rendered successfully for course ID: 2, lesson ID: 0
+[2024-10-07 01:36:00] Accessing lesson.php
+[07-Oct-2024 01:36:00 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 44
+[07-Oct-2024 01:36:00 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 44
+[2024-10-07 01:36:00] Lesson page rendered successfully for course ID: 2, lesson ID: 1
+[2024-10-07 01:36:01] Accessing complete_course.php
+[2024-10-07 01:36:01] Course completed: User mehrad3, Course ID 2
+[2024-10-07 01:36:01] Accessing client_dashboard.php
+[2024-10-07 01:36:01] User logged in: mehrad3
+[07-Oct-2024 01:36:01 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 44
+[07-Oct-2024 01:36:01 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 44
+[2024-10-07 01:36:01] Client dashboard rendered successfully
+[2024-10-07 01:36:11] Accessing client_dashboard.php
+[2024-10-07 01:36:11] User logged in: mehrad3
+[07-Oct-2024 01:36:11 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 44
+[07-Oct-2024 01:36:11 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 44
+[2024-10-07 01:36:11] Client dashboard rendered successfully
+[07-Oct-2024 01:41:13 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 44
+[07-Oct-2024 01:41:13 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 44
+[2024-10-07 01:41:13] Accessing courses.php
+[2024-10-07 01:41:13] Courses page rendered successfully
+[07-Oct-2024 01:41:16 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 44
+[07-Oct-2024 01:41:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 44
+[2024-10-07 01:42:18] Registration form submitted
+[07-Oct-2024 01:42:18 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 52
+[07-Oct-2024 01:42:18 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 52
+[07-Oct-2024 01:42:23 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 52
+[07-Oct-2024 01:42:23 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 52
+[2024-10-07 01:42:31] User logged out: mehrad3
+[2024-10-07 03:05:55] Registration form submitted
+[2024-10-07 03:05:59] Login member form submitted
+[2024-10-07 03:06:06] Accessing courses.php
+[2024-10-07 03:06:06] Courses page rendered successfully
+[2024-10-07 03:06:12] Login member form submitted
+[2024-10-07 03:06:25] Login member form submitted
+[2024-10-07 03:06:25] Received POST data: Array
+(
+    [username] => mehrad3
+    [password] => mehrad3
+)
+
+[2024-10-07 03:06:25] User logged in successfully: mehrad3
+[2024-10-07 03:06:25] Accessing client_dashboard.php
+[2024-10-07 03:06:25] User logged in: mehrad3
+[07-Oct-2024 03:06:25 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 52
+[07-Oct-2024 03:06:25 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 52
+[2024-10-07 03:06:25] Client dashboard rendered successfully
+[07-Oct-2024 03:06:33 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 52
+[07-Oct-2024 03:06:33 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 52
+[2024-10-07 03:06:33] Accessing courses.php
+[2024-10-07 03:06:33] Courses page rendered successfully
+[2024-10-07 03:06:36] Accessing client_dashboard.php
+[2024-10-07 03:06:36] User logged in: mehrad3
+[07-Oct-2024 03:06:36 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 52
+[07-Oct-2024 03:06:36 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 52
+[2024-10-07 03:06:36] Client dashboard rendered successfully
+[07-Oct-2024 03:06:41 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 52
+[07-Oct-2024 03:06:41 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 52
+[2024-10-07 03:06:44] Accessing client_dashboard.php
+[2024-10-07 03:06:44] User logged in: mehrad3
+[07-Oct-2024 03:06:44 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 52
+[07-Oct-2024 03:06:44 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 52
+[2024-10-07 03:06:44] Client dashboard rendered successfully
+[2024-10-07 03:17:50] Accessing client_dashboard.php
+[2024-10-07 03:17:50] User logged in: mehrad3
+[07-Oct-2024 03:17:50 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 52
+[07-Oct-2024 03:17:50 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 52
+[2024-10-07 03:17:50] Client dashboard rendered successfully
+[2024-10-07 03:20:28] Unauthorized access attempt to admin_manage_clients.php
+[2024-10-07 03:20:28] Accessing login_admin.php
+[2024-10-07 03:20:28] Accessed login_admin.php via GET request
+[07-Oct-2024 03:20:28 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 52
+[07-Oct-2024 03:20:28 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 52
+[2024-10-07 03:20:33] Accessing login_admin.php
+[2024-10-07 03:20:33] Received POST data: Array
+(
+    [username] => admin
+    [password] => admin
+)
+
+[2024-10-07 03:20:33] Admin logged in successfully: admin
+[2024-10-07 03:20:33] Admin accessed dashboard: admin
+[2024-10-07 03:29:28] Admin accessed dashboard: admin
+[2024-10-07 03:30:06] User logged out: admin
+[2024-10-07 03:30:09] Login member form submitted
+[2024-10-07 03:30:13] Login member form submitted
+[2024-10-07 03:30:13] Received POST data: Array
+(
+    [username] => mehrad3
+    [password] => mehrad3
+)
+
+[2024-10-07 03:30:13] User logged in successfully: mehrad3
+[2024-10-07 03:30:13] Accessing client_dashboard.php
+[2024-10-07 03:30:13] User logged in: mehrad3
+[07-Oct-2024 03:30:13 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 52
+[07-Oct-2024 03:30:13 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 52
+[2024-10-07 03:30:13] Client dashboard rendered successfully
+[2024-10-07 03:30:20] Accessing client_dashboard.php
+[2024-10-07 03:30:20] User logged in: mehrad3
+[07-Oct-2024 03:30:20 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 52
+[07-Oct-2024 03:30:20 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 52
+[2024-10-07 03:30:20] Client dashboard rendered successfully
+[07-Oct-2024 03:30:22 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 52
+[07-Oct-2024 03:30:22 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 52
+[07-Oct-2024 03:30:29 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 52
+[07-Oct-2024 03:30:29 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 52
+[07-Oct-2024 03:30:40 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 52
+[07-Oct-2024 03:30:40 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 52
+[07-Oct-2024 03:30:46 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 52
+[07-Oct-2024 03:30:46 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 52
+[2024-10-07 03:31:02] User logged out: mehrad3
+[2024-10-07 03:31:09] Unauthorized access attempt to admin dashboard
+[2024-10-07 03:31:32] Accessing login_admin.php
+[2024-10-07 03:31:32] Accessed login_admin.php via GET request
+[2024-10-07 03:31:36] Accessing login_admin.php
+[2024-10-07 03:31:36] Received POST data: Array
+(
+    [username] => admin
+    [password] => admin
+)
+
+[2024-10-07 03:31:36] Admin logged in successfully: admin
+[2024-10-07 03:31:37] Admin accessed dashboard: admin
+[2024-10-07 03:32:42] Admin accessed dashboard: admin
+[2024-10-07 03:33:00] Admin accessed dashboard: admin
+[2024-10-07 03:41:54] Admin accessed dashboard: admin
+[2024-10-07 03:52:42] Admin accessed dashboard: admin
+[2024-10-07 03:59:13] Admin accessed dashboard: admin
+[2024-10-07 04:04:06] Admin accessed dashboard: admin
+[2024-10-07 04:07:40] Accessing courses.php
+[2024-10-07 04:07:40] Courses page rendered successfully
+[2024-10-07 04:07:43] Admin accessed dashboard: admin
+[2024-10-07 04:07:50] Admin accessed dashboard: admin
+[2024-10-07 04:07:57] Admin accessed dashboard: admin
+[2024-10-07 04:10:07] Admin accessed dashboard: admin
+[2024-10-07 04:13:25] Admin accessed dashboard: admin
+[2024-10-07 04:13:36] Admin accessed dashboard: admin
+[2024-10-07 04:14:16] Admin accessed dashboard: admin
+[2024-10-07 04:18:54] Admin accessed dashboard: admin
+[2024-10-07 04:18:59] Admin accessed dashboard: admin
+[2024-10-07 04:19:56] Admin accessed dashboard: admin
+[2024-10-07 04:23:34] Admin accessed dashboard: admin
+[2024-10-07 04:27:48] Admin accessed dashboard: admin
+[2024-10-07 04:27:51] Admin accessed dashboard: admin
+[2024-10-07 04:27:57] Admin accessed dashboard: admin
+[2024-10-07 04:31:31] Admin accessed dashboard: admin
+[2024-10-07 04:32:10] Login member form submitted
+[2024-10-07 04:32:16] Admin accessed dashboard: admin
+[2024-10-07 04:32:21] Accessing courses.php
+[2024-10-07 04:32:21] Courses page rendered successfully
+[2024-10-07 04:32:29] Login member form submitted
+[2024-10-07 04:32:36] Login member form submitted
+[2024-10-07 04:32:36] Received POST data: Array
+(
+    [username] => mehrad3
+    [password] => mehrad3
+)
+
+[2024-10-07 04:32:37] User logged in successfully: mehrad3
+[2024-10-07 04:32:37] Accessing client_dashboard.php
+[2024-10-07 04:32:37] User logged in: mehrad3
+[2024-10-07 04:32:37] Client dashboard rendered successfully
+[2024-10-07 04:34:10] Admin accessed dashboard: mehrad3
+[07-Oct-2024 04:55:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getTotalEnrollments() in /Users/mehrad/Documents/shahab/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /Users/mehrad/Documents/shahab/index.php on line 8
+[2024-10-07 05:12:29] Admin accessed dashboard: mehrad3
+[2024-10-07 12:18:19] Admin accessed dashboard: mehrad3
+[07-Oct-2024 12:19:21 UTC] PHP Warning:  Undefined variable $question1 in /Users/mehrad/Documents/shahab/index.php on line 184
+[07-Oct-2024 12:19:21 UTC] PHP Warning:  Undefined variable $answer1 in /Users/mehrad/Documents/shahab/index.php on line 188
+[07-Oct-2024 12:19:21 UTC] PHP Warning:  Undefined variable $question2 in /Users/mehrad/Documents/shahab/index.php on line 193
+[07-Oct-2024 12:19:21 UTC] PHP Warning:  Undefined variable $answer2 in /Users/mehrad/Documents/shahab/index.php on line 197
+[07-Oct-2024 12:19:21 UTC] PHP Warning:  Undefined variable $question3 in /Users/mehrad/Documents/shahab/index.php on line 202
+[07-Oct-2024 12:19:21 UTC] PHP Warning:  Undefined variable $answer3 in /Users/mehrad/Documents/shahab/index.php on line 206
+[2024-10-07 14:09:50] Admin accessed dashboard: mehrad3
+[2024-10-07 14:16:35] Admin accessed dashboard: mehrad3
+[2024-10-07 14:39:47] Accessing courses.php
+[2024-10-07 14:39:47] Courses page rendered successfully
+[2024-10-07 14:39:50] Accessing course_detail.php
+[2024-10-07 14:39:50] Course detail page rendered successfully for course ID: 2
+[2024-10-07 14:39:53] Accessing course_content.php
+[2024-10-07 14:39:53] Course content page rendered successfully for course ID: 2
+[2024-10-07 14:40:04] Admin accessed dashboard: mehrad3
+[2024-10-07 14:40:27] Accessing courses.php
+[2024-10-07 14:40:27] Courses page rendered successfully
+[2024-10-07 14:40:32] Accessing course_detail.php
+[2024-10-07 14:40:32] Course detail page rendered successfully for course ID: 2
+[2024-10-07 14:40:35] Accessing course_content.php
+[2024-10-07 14:40:35] Course content page rendered successfully for course ID: 2
+[2024-10-07 14:40:35] Accessing course_content.php
+[2024-10-07 14:40:35] Course content page rendered successfully for course ID: 2
+[2024-10-07 14:40:38] Accessing lesson.php
+[2024-10-07 14:40:38] Lesson page rendered successfully for course ID: 2, lesson ID: 0
+[2024-10-07 14:48:22] Login member form submitted
+[2024-10-07 14:48:42] User logged out: mehrad3
+[2024-10-07 14:48:44] Login member form submitted
+[2024-10-07 14:48:49] Login member form submitted
+[2024-10-07 14:48:49] Received POST data: Array
+(
+    [username] => mehrad3
+    [password] => mehrad3
+)
+
+[2024-10-07 14:48:49] User logged in successfully: mehrad3
+[2024-10-07 14:48:49] Accessing client_dashboard.php
+[2024-10-07 14:48:49] User logged in: mehrad3
+[07-Oct-2024 14:48:49 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 67
+[07-Oct-2024 14:48:49 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 67
+[2024-10-07 14:48:49] Client dashboard rendered successfully
+[07-Oct-2024 14:48:58 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 67
+[07-Oct-2024 14:48:58 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 67
+[07-Oct-2024 14:49:02 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 67
+[07-Oct-2024 14:49:02 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 67
+[07-Oct-2024 14:49:08 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 67
+[07-Oct-2024 14:49:08 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 67
+[2024-10-07 14:49:08] Accessing courses.php
+[2024-10-07 14:49:08] Courses page rendered successfully
+[2024-10-08 21:14:43] Accessing courses.php
+[2024-10-08 21:14:43] Courses page rendered successfully
+[2024-10-08 21:15:22] Login member form submitted
+[2024-10-08 21:15:22] Login member form submitted
+[2024-10-08 21:15:30] Registration form submitted
+[2024-10-08 21:15:40] Registration form submitted
+[2024-10-08 21:16:17] Login member form submitted
+[2024-10-08 21:16:21] Login member form submitted
+[2024-10-08 21:16:40] Login member form submitted
+[2024-10-08 21:16:40] Received POST data: Array
+(
+    [username] => admin3
+    [password] => admin3
+)
+
+[2024-10-08 21:16:40] Login failed for user: admin3
+[2024-10-08 21:16:52] Login member form submitted
+[2024-10-08 21:16:52] Received POST data: Array
+(
+    [username] => mehrad3
+    [password] => mehrad3
+)
+
+[2024-10-08 21:16:52] User logged in successfully: mehrad3
+[2024-10-08 21:16:52] Accessing client_dashboard.php
+[2024-10-08 21:16:52] User logged in: mehrad3
+[08-Oct-2024 21:16:52 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 67
+[08-Oct-2024 21:16:52 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 67
+[2024-10-08 21:16:52] Client dashboard rendered successfully
+[08-Oct-2024 21:17:26 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 67
+[08-Oct-2024 21:17:26 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 67
+[08-Oct-2024 21:17:38 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 67
+[08-Oct-2024 21:17:38 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 67
+[2024-10-08 21:17:38] Accessing courses.php
+[2024-10-08 21:17:38] Courses page rendered successfully
+[08-Oct-2024 21:18:43 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 67
+[08-Oct-2024 21:18:43 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 67
+[08-Oct-2024 21:19:05 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 67
+[08-Oct-2024 21:19:05 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 67
+[08-Oct-2024 21:19:12 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 67
+[08-Oct-2024 21:19:12 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 67
+[08-Oct-2024 21:19:37 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 67
+[08-Oct-2024 21:19:37 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 67
+[08-Oct-2024 21:19:53 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 67
+[08-Oct-2024 21:19:53 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 67
+[08-Oct-2024 21:20:00 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 67
+[08-Oct-2024 21:20:00 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 67
+[08-Oct-2024 21:20:24 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 67
+[08-Oct-2024 21:20:24 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 67
+[2024-10-08 21:20:24] Accessing courses.php
+[2024-10-08 21:20:24] Courses page rendered successfully
+[08-Oct-2024 21:20:26 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 67
+[08-Oct-2024 21:20:26 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 67
+[2024-10-08 21:20:26] Accessing courses.php
+[2024-10-08 21:20:26] Courses page rendered successfully
+[2024-10-08 21:20:45] Accessing client_dashboard.php
+[2024-10-08 21:20:45] User logged in: mehrad3
+[08-Oct-2024 21:20:45 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 67
+[08-Oct-2024 21:20:45 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 67
+[2024-10-08 21:20:45] Client dashboard rendered successfully
+[08-Oct-2024 21:20:49 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 67
+[08-Oct-2024 21:20:49 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 67
+[2024-10-08 21:20:53] Accessing course_content.php
+[08-Oct-2024 21:20:53 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 67
+[08-Oct-2024 21:20:53 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 67
+[2024-10-08 21:20:53] Course content page rendered successfully for course ID: 2
+[2024-10-08 21:21:25] Accessing lesson.php
+[08-Oct-2024 21:21:25 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 67
+[08-Oct-2024 21:21:25 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 67
+[2024-10-08 21:21:25] Lesson page rendered successfully for course ID: 2, lesson ID: 0
+[2024-10-08 21:22:32] Accessing mark_lesson_complete.php
+[2024-10-08 21:22:46] Accessing lesson.php
+[08-Oct-2024 21:22:46 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 67
+[08-Oct-2024 21:22:46 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 67
+[2024-10-08 21:22:46] Lesson page rendered successfully for course ID: 2, lesson ID: 1
+[2024-10-08 21:23:25] Accessing complete_course.php
+[2024-10-08 21:23:25] Course completed: User mehrad3, Course ID 2
+[2024-10-08 21:23:25] Accessing client_dashboard.php
+[2024-10-08 21:23:25] User logged in: mehrad3
+[08-Oct-2024 21:23:25 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 67
+[08-Oct-2024 21:23:25 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 67
+[2024-10-08 21:23:25] Client dashboard rendered successfully
+[08-Oct-2024 21:23:42 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 67
+[08-Oct-2024 21:23:42 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 67
+[2024-10-08 21:23:42] Accessing courses.php
+[2024-10-08 21:23:42] Courses page rendered successfully
+[2024-10-08 21:23:51] Accessing client_dashboard.php
+[2024-10-08 21:23:51] User logged in: mehrad3
+[08-Oct-2024 21:23:51 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 67
+[08-Oct-2024 21:23:51 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 67
+[2024-10-08 21:23:51] Client dashboard rendered successfully
+[08-Oct-2024 21:23:52 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 67
+[08-Oct-2024 21:23:52 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 67
+[08-Oct-2024 21:24:08 UTC] PHP Warning:  Undefined variable $profilePicture in /Users/mehrad/Documents/shahab/header.php on line 67
+[08-Oct-2024 21:24:08 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/mehrad/Documents/shahab/header.php on line 67
+[2024-10-08 21:24:08] Accessing courses.php
+[2024-10-08 21:24:08] Courses page rendered successfully
+[2024-10-08 21:24:37] User logged out: mehrad3
+[2024-10-08 21:26:11] Unauthorized access attempt to admin dashboard
+[2024-10-08 21:26:23] Unauthorized access attempt to admin dashboard
+[2024-10-08 21:26:56] Accessing login_admin.php
+[2024-10-08 21:26:56] Accessed login_admin.php via GET request
+[2024-10-08 21:27:17] Accessing login_admin.php
+[2024-10-08 21:27:17] Received POST data: Array
+(
+    [username] => admin
+    [password] => admin
+)
+
+[2024-10-08 21:27:17] Admin logged in successfully: admin
+[2024-10-08 21:27:18] Admin accessed dashboard: admin
+[2024-10-08 21:29:25] Admin accessed dashboard: admin
+[2024-10-08 21:30:51] Admin accessed dashboard: admin
+[2024-10-08 21:30:55] Accessing courses.php
+[2024-10-08 21:30:55] Courses page rendered successfully
+[2024-10-08 21:31:07] Accessing courses.php
+[2024-10-08 21:31:07] Courses page rendered successfully
+[2024-10-08 21:36:09] Admin accessed dashboard: admin
+[2024-10-08 21:36:10] Admin accessed dashboard: admin
+[2024-10-08 23:16:03] Accessing courses.php
+[2024-10-08 23:16:03] Courses page rendered successfully

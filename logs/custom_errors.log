@@ -1,0 +1,761 @@
+[2024-12-02 00:33:00] Accessing login_admin.php
+[2024-12-02 00:33:00] Accessed login_admin.php via GET request
+[2024-12-02 00:33:04] Accessing login_admin.php
+[2024-12-02 00:33:04] Accessed login_admin.php via non-POST request
+[2024-12-02 00:33:27] Accessing login_admin.php
+[2024-12-02 00:33:27] Accessed login_admin.php via non-POST request
+[2024-12-02 00:33:27] Accessing login_admin.php
+[2024-12-02 00:33:27] Accessed login_admin.php via non-POST request
+[2024-12-02 00:34:27] Accessing login_admin.php
+[2024-12-02 00:34:27] Accessed login_admin.php via non-POST request
+[2024-12-02 00:34:36] Accessing login_admin.php
+[2024-12-02 00:34:36] Accessed login_admin.php via non-POST request
+[2024-12-02 00:34:47] Accessing login_admin.php
+[2024-12-02 00:34:47] Accessed login_admin.php via non-POST request
+[2024-12-02 00:35:00] Accessing login_admin.php
+[2024-12-02 00:35:00] Accessed login_admin.php via non-POST request
+[2024-12-02 00:35:05] Accessing login_admin.php
+[2024-12-02 00:35:05] Accessed login_admin.php via non-POST request
+[2024-12-02 00:36:19] Accessing login_admin.php
+[2024-12-02 00:36:19] Request Method: not set
+[2024-12-02 00:36:19] POST data: Array
+(
+)
+
+[2024-12-02 00:36:19] Non-POST request received
+[2024-12-02 00:36:42] Accessing login_admin.php
+[2024-12-02 00:36:42] Request Method: not set
+[2024-12-02 00:36:42] POST data: Array
+(
+)
+
+[2024-12-02 00:36:42] Non-POST request received
+[2024-12-02 00:36:48] Accessing login_admin.php
+[2024-12-02 00:36:48] Request Method: not set
+[2024-12-02 00:36:48] POST data: Array
+(
+)
+
+[2024-12-02 00:36:48] Non-POST request received
+[2024-12-02 00:36:48] Accessing login_admin.php
+[2024-12-02 00:36:48] Request Method: not set
+[2024-12-02 00:36:48] POST data: Array
+(
+)
+
+[2024-12-02 00:36:48] Non-POST request received
+[2024-12-02 00:37:02] Accessing login_admin.php
+[2024-12-02 00:37:02] Request Method: not set
+[2024-12-02 00:37:02] POST data: Array
+(
+)
+
+[2024-12-02 00:37:02] Non-POST request received
+[2024-12-02 00:37:20] === New Login Attempt ===
+[2024-12-02 00:37:20] Session ID: 90729b716d1702544dd88c2bbc1d7d6f
+[2024-12-02 00:37:20] Request Method: not set
+[2024-12-02 00:37:20] POST data: Array
+(
+)
+
+[2024-12-02 00:37:20] Server variables: Array
+(
+    [VSCODE_CRASH_REPORTER_PROCESS_TYPE] => extensionHost
+    [SHELL] => /bin/zsh
+    [TMPDIR] => /var/folders/4d/56n5cctd0y907v4y01knq03w0000gn/T/
+    [HOMEBREW_REPOSITORY] => /opt/homebrew
+    [ORIGINAL_XDG_CURRENT_DESKTOP] => undefined
+    [MallocNanoZone] => 0
+    [USER] => mehrad
+    [COMMAND_MODE] => unix2003
+    [SSH_AUTH_SOCK] => /private/tmp/com.apple.launchd.qq9w2KueaA/Listeners
+    [__CF_USER_TEXT_ENCODING] => 0x1F5:0x0:0x0
+    [ELECTRON_RUN_AS_NODE] => 1
+    [VSCODE_AMD_ENTRYPOINT] => vs/workbench/api/node/extensionHostProcess
+    [PATH] => /opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/Library/Apple/usr/bin:/Applications/VMware Fusion.app/Contents/Public:/Users/mehrad/.local/bin:/Users/mehrad/.local/bin:/Users/mehrad/.cache/lm-studio/bin
+    [_] => /opt/homebrew/bin/php
+    [__CFBundleIdentifier] => com.exafunction.windsurf
+    [PWD] => /
+    [VSCODE_HANDLES_UNCAUGHT_ERRORS] => true
+    [VERCEL_TOKEN] => oBe50v7A8k0SiM5Yl1xDrDMk
+    [XPC_FLAGS] => 0x0
+    [XPC_SERVICE_NAME] => application.com.exafunction.windsurf.9138260.9138266
+    [SHLVL] => 1
+    [HOME] => /Users/mehrad
+    [VSCODE_NLS_CONFIG] => {"userLocale":"en-us","osLocale":"en-us","resolvedLanguage":"en","defaultMessagesFile":"/Applications/Windsurf.app/Contents/Resources/app/out/nls.messages.json","locale":"en-us","availableLanguages":{}}
+    [HOMEBREW_PREFIX] => /opt/homebrew
+    [LOGNAME] => mehrad
+    [VSCODE_IPC_HOOK] => /Users/mehrad/Library/Application Support/Windsurf/1.94-main.sock
+    [VSCODE_CODE_CACHE_PATH] => /Users/mehrad/Library/Application Support/Windsurf/CachedData/d33d40f6cd3a4d7e451b22e94359230a4aa8c161
+    [VSCODE_PID] => 13383
+    [INFOPATH] => /opt/homebrew/share/info:
+    [HOMEBREW_CELLAR] => /opt/homebrew/Cellar
+    [VSCODE_L10N_BUNDLE_LOCATION] => 
+    [VSCODE_CWD] => /
+    [PHP_SELF] => /Users/mehrad/Documents/shahabmusic/login_admin.php
+    [SCRIPT_NAME] => /Users/mehrad/Documents/shahabmusic/login_admin.php
+    [SCRIPT_FILENAME] => /Users/mehrad/Documents/shahabmusic/login_admin.php
+    [PATH_TRANSLATED] => /Users/mehrad/Documents/shahabmusic/login_admin.php
+    [DOCUMENT_ROOT] => 
+    [REQUEST_TIME_FLOAT] => 1733099840.2178
+    [REQUEST_TIME] => 1733099840
+    [argv] => Array
+        (
+            [0] => /Users/mehrad/Documents/shahabmusic/login_admin.php
+        )
+
+    [argc] => 1
+)
+
+[2024-12-02 00:37:20] Non-POST request received. Request method: not set
+[2024-12-02 00:37:44] === New Login Attempt ===
+[2024-12-02 00:37:44] Session ID: 8d98c8052f839e04b9218f6898f2048d
+[2024-12-02 00:37:44] Request Method: not set
+[2024-12-02 00:37:44] POST data: Array
+(
+)
+
+[2024-12-02 00:37:44] Server variables: Array
+(
+    [VSCODE_CRASH_REPORTER_PROCESS_TYPE] => extensionHost
+    [SHELL] => /bin/zsh
+    [TMPDIR] => /var/folders/4d/56n5cctd0y907v4y01knq03w0000gn/T/
+    [HOMEBREW_REPOSITORY] => /opt/homebrew
+    [ORIGINAL_XDG_CURRENT_DESKTOP] => undefined
+    [MallocNanoZone] => 0
+    [USER] => mehrad
+    [COMMAND_MODE] => unix2003
+    [SSH_AUTH_SOCK] => /private/tmp/com.apple.launchd.qq9w2KueaA/Listeners
+    [__CF_USER_TEXT_ENCODING] => 0x1F5:0x0:0x0
+    [ELECTRON_RUN_AS_NODE] => 1
+    [VSCODE_AMD_ENTRYPOINT] => vs/workbench/api/node/extensionHostProcess
+    [PATH] => /opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/Library/Apple/usr/bin:/Applications/VMware Fusion.app/Contents/Public:/Users/mehrad/.local/bin:/Users/mehrad/.local/bin:/Users/mehrad/.cache/lm-studio/bin
+    [_] => /opt/homebrew/bin/php
+    [__CFBundleIdentifier] => com.exafunction.windsurf
+    [PWD] => /
+    [VSCODE_HANDLES_UNCAUGHT_ERRORS] => true
+    [VERCEL_TOKEN] => oBe50v7A8k0SiM5Yl1xDrDMk
+    [XPC_FLAGS] => 0x0
+    [XPC_SERVICE_NAME] => application.com.exafunction.windsurf.9138260.9138266
+    [SHLVL] => 1
+    [HOME] => /Users/mehrad
+    [VSCODE_NLS_CONFIG] => {"userLocale":"en-us","osLocale":"en-us","resolvedLanguage":"en","defaultMessagesFile":"/Applications/Windsurf.app/Contents/Resources/app/out/nls.messages.json","locale":"en-us","availableLanguages":{}}
+    [HOMEBREW_PREFIX] => /opt/homebrew
+    [LOGNAME] => mehrad
+    [VSCODE_IPC_HOOK] => /Users/mehrad/Library/Application Support/Windsurf/1.94-main.sock
+    [VSCODE_CODE_CACHE_PATH] => /Users/mehrad/Library/Application Support/Windsurf/CachedData/d33d40f6cd3a4d7e451b22e94359230a4aa8c161
+    [VSCODE_PID] => 13383
+    [INFOPATH] => /opt/homebrew/share/info:
+    [HOMEBREW_CELLAR] => /opt/homebrew/Cellar
+    [VSCODE_L10N_BUNDLE_LOCATION] => 
+    [VSCODE_CWD] => /
+    [PHP_SELF] => /Users/mehrad/Documents/shahabmusic/login_admin.php
+    [SCRIPT_NAME] => /Users/mehrad/Documents/shahabmusic/login_admin.php
+    [SCRIPT_FILENAME] => /Users/mehrad/Documents/shahabmusic/login_admin.php
+    [PATH_TRANSLATED] => /Users/mehrad/Documents/shahabmusic/login_admin.php
+    [DOCUMENT_ROOT] => 
+    [REQUEST_TIME_FLOAT] => 1733099864.3104
+    [REQUEST_TIME] => 1733099864
+    [argv] => Array
+        (
+            [0] => /Users/mehrad/Documents/shahabmusic/login_admin.php
+        )
+
+    [argc] => 1
+)
+
+[2024-12-02 00:37:44] Non-POST request received. Request method: not set
+[2024-12-02 00:37:48] === New Login Attempt ===
+[2024-12-02 00:37:48] Session ID: 2e9450d998e59047ce2f00f3809a23d1
+[2024-12-02 00:37:48] Request Method: not set
+[2024-12-02 00:37:48] POST data: Array
+(
+)
+
+[2024-12-02 00:37:48] Server variables: Array
+(
+    [VSCODE_CRASH_REPORTER_PROCESS_TYPE] => extensionHost
+    [SHELL] => /bin/zsh
+    [TMPDIR] => /var/folders/4d/56n5cctd0y907v4y01knq03w0000gn/T/
+    [HOMEBREW_REPOSITORY] => /opt/homebrew
+    [ORIGINAL_XDG_CURRENT_DESKTOP] => undefined
+    [MallocNanoZone] => 0
+    [USER] => mehrad
+    [COMMAND_MODE] => unix2003
+    [SSH_AUTH_SOCK] => /private/tmp/com.apple.launchd.qq9w2KueaA/Listeners
+    [__CF_USER_TEXT_ENCODING] => 0x1F5:0x0:0x0
+    [ELECTRON_RUN_AS_NODE] => 1
+    [VSCODE_AMD_ENTRYPOINT] => vs/workbench/api/node/extensionHostProcess
+    [PATH] => /opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/Library/Apple/usr/bin:/Applications/VMware Fusion.app/Contents/Public:/Users/mehrad/.local/bin:/Users/mehrad/.local/bin:/Users/mehrad/.cache/lm-studio/bin
+    [_] => /opt/homebrew/bin/php
+    [__CFBundleIdentifier] => com.exafunction.windsurf
+    [PWD] => /
+    [VSCODE_HANDLES_UNCAUGHT_ERRORS] => true
+    [VERCEL_TOKEN] => oBe50v7A8k0SiM5Yl1xDrDMk
+    [XPC_FLAGS] => 0x0
+    [XPC_SERVICE_NAME] => application.com.exafunction.windsurf.9138260.9138266
+    [SHLVL] => 1
+    [HOME] => /Users/mehrad
+    [VSCODE_NLS_CONFIG] => {"userLocale":"en-us","osLocale":"en-us","resolvedLanguage":"en","defaultMessagesFile":"/Applications/Windsurf.app/Contents/Resources/app/out/nls.messages.json","locale":"en-us","availableLanguages":{}}
+    [HOMEBREW_PREFIX] => /opt/homebrew
+    [LOGNAME] => mehrad
+    [VSCODE_IPC_HOOK] => /Users/mehrad/Library/Application Support/Windsurf/1.94-main.sock
+    [VSCODE_CODE_CACHE_PATH] => /Users/mehrad/Library/Application Support/Windsurf/CachedData/d33d40f6cd3a4d7e451b22e94359230a4aa8c161
+    [VSCODE_PID] => 13383
+    [INFOPATH] => /opt/homebrew/share/info:
+    [HOMEBREW_CELLAR] => /opt/homebrew/Cellar
+    [VSCODE_L10N_BUNDLE_LOCATION] => 
+    [VSCODE_CWD] => /
+    [PHP_SELF] => /Users/mehrad/Documents/shahabmusic/login_admin.php
+    [SCRIPT_NAME] => /Users/mehrad/Documents/shahabmusic/login_admin.php
+    [SCRIPT_FILENAME] => /Users/mehrad/Documents/shahabmusic/login_admin.php
+    [PATH_TRANSLATED] => /Users/mehrad/Documents/shahabmusic/login_admin.php
+    [DOCUMENT_ROOT] => 
+    [REQUEST_TIME_FLOAT] => 1733099868.7403
+    [REQUEST_TIME] => 1733099868
+    [argv] => Array
+        (
+            [0] => /Users/mehrad/Documents/shahabmusic/login_admin.php
+        )
+
+    [argc] => 1
+)
+
+[2024-12-02 00:37:48] Non-POST request received. Request method: not set
+[2024-12-02 00:38:07] === New Login Attempt ===
+[2024-12-02 00:38:07] Session ID: 5fef28bb17f49e75c813b78ee6df1fe5
+[2024-12-02 00:38:07] Request Method: not set
+[2024-12-02 00:38:07] POST data: Array
+(
+)
+
+[2024-12-02 00:38:07] Server variables: Array
+(
+    [VSCODE_CRASH_REPORTER_PROCESS_TYPE] => extensionHost
+    [SHELL] => /bin/zsh
+    [TMPDIR] => /var/folders/4d/56n5cctd0y907v4y01knq03w0000gn/T/
+    [HOMEBREW_REPOSITORY] => /opt/homebrew
+    [ORIGINAL_XDG_CURRENT_DESKTOP] => undefined
+    [MallocNanoZone] => 0
+    [USER] => mehrad
+    [COMMAND_MODE] => unix2003
+    [SSH_AUTH_SOCK] => /private/tmp/com.apple.launchd.qq9w2KueaA/Listeners
+    [__CF_USER_TEXT_ENCODING] => 0x1F5:0x0:0x0
+    [ELECTRON_RUN_AS_NODE] => 1
+    [VSCODE_AMD_ENTRYPOINT] => vs/workbench/api/node/extensionHostProcess
+    [PATH] => /opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/Library/Apple/usr/bin:/Applications/VMware Fusion.app/Contents/Public:/Users/mehrad/.local/bin:/Users/mehrad/.local/bin:/Users/mehrad/.cache/lm-studio/bin
+    [_] => /opt/homebrew/bin/php
+    [__CFBundleIdentifier] => com.exafunction.windsurf
+    [PWD] => /
+    [VSCODE_HANDLES_UNCAUGHT_ERRORS] => true
+    [VERCEL_TOKEN] => oBe50v7A8k0SiM5Yl1xDrDMk
+    [XPC_FLAGS] => 0x0
+    [XPC_SERVICE_NAME] => application.com.exafunction.windsurf.9138260.9138266
+    [SHLVL] => 1
+    [HOME] => /Users/mehrad
+    [VSCODE_NLS_CONFIG] => {"userLocale":"en-us","osLocale":"en-us","resolvedLanguage":"en","defaultMessagesFile":"/Applications/Windsurf.app/Contents/Resources/app/out/nls.messages.json","locale":"en-us","availableLanguages":{}}
+    [HOMEBREW_PREFIX] => /opt/homebrew
+    [LOGNAME] => mehrad
+    [VSCODE_IPC_HOOK] => /Users/mehrad/Library/Application Support/Windsurf/1.94-main.sock
+    [VSCODE_CODE_CACHE_PATH] => /Users/mehrad/Library/Application Support/Windsurf/CachedData/d33d40f6cd3a4d7e451b22e94359230a4aa8c161
+    [VSCODE_PID] => 13383
+    [INFOPATH] => /opt/homebrew/share/info:
+    [HOMEBREW_CELLAR] => /opt/homebrew/Cellar
+    [VSCODE_L10N_BUNDLE_LOCATION] => 
+    [VSCODE_CWD] => /
+    [PHP_SELF] => /Users/mehrad/Documents/shahabmusic/login_admin.php
+    [SCRIPT_NAME] => /Users/mehrad/Documents/shahabmusic/login_admin.php
+    [SCRIPT_FILENAME] => /Users/mehrad/Documents/shahabmusic/login_admin.php
+    [PATH_TRANSLATED] => /Users/mehrad/Documents/shahabmusic/login_admin.php
+    [DOCUMENT_ROOT] => 
+    [REQUEST_TIME_FLOAT] => 1733099887.684
+    [REQUEST_TIME] => 1733099887
+    [argv] => Array
+        (
+            [0] => /Users/mehrad/Documents/shahabmusic/login_admin.php
+        )
+
+    [argc] => 1
+)
+
+[2024-12-02 00:38:07] Non-POST request received. Request method: not set
+[2024-12-02 00:38:17] === New Login Attempt ===
+[2024-12-02 00:38:17] Session ID: 36c24fd481081097fa2f3f014f4ac80b
+[2024-12-02 00:38:17] Request Method: not set
+[2024-12-02 00:38:17] POST data: Array
+(
+)
+
+[2024-12-02 00:38:17] Server variables: Array
+(
+    [VSCODE_CRASH_REPORTER_PROCESS_TYPE] => extensionHost
+    [SHELL] => /bin/zsh
+    [TMPDIR] => /var/folders/4d/56n5cctd0y907v4y01knq03w0000gn/T/
+    [HOMEBREW_REPOSITORY] => /opt/homebrew
+    [ORIGINAL_XDG_CURRENT_DESKTOP] => undefined
+    [MallocNanoZone] => 0
+    [USER] => mehrad
+    [COMMAND_MODE] => unix2003
+    [SSH_AUTH_SOCK] => /private/tmp/com.apple.launchd.qq9w2KueaA/Listeners
+    [__CF_USER_TEXT_ENCODING] => 0x1F5:0x0:0x0
+    [ELECTRON_RUN_AS_NODE] => 1
+    [VSCODE_AMD_ENTRYPOINT] => vs/workbench/api/node/extensionHostProcess
+    [PATH] => /opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/Library/Apple/usr/bin:/Applications/VMware Fusion.app/Contents/Public:/Users/mehrad/.local/bin:/Users/mehrad/.local/bin:/Users/mehrad/.cache/lm-studio/bin
+    [_] => /opt/homebrew/bin/php
+    [__CFBundleIdentifier] => com.exafunction.windsurf
+    [PWD] => /
+    [VSCODE_HANDLES_UNCAUGHT_ERRORS] => true
+    [VERCEL_TOKEN] => oBe50v7A8k0SiM5Yl1xDrDMk
+    [XPC_FLAGS] => 0x0
+    [XPC_SERVICE_NAME] => application.com.exafunction.windsurf.9138260.9138266
+    [SHLVL] => 1
+    [HOME] => /Users/mehrad
+    [VSCODE_NLS_CONFIG] => {"userLocale":"en-us","osLocale":"en-us","resolvedLanguage":"en","defaultMessagesFile":"/Applications/Windsurf.app/Contents/Resources/app/out/nls.messages.json","locale":"en-us","availableLanguages":{}}
+    [HOMEBREW_PREFIX] => /opt/homebrew
+    [LOGNAME] => mehrad
+    [VSCODE_IPC_HOOK] => /Users/mehrad/Library/Application Support/Windsurf/1.94-main.sock
+    [VSCODE_CODE_CACHE_PATH] => /Users/mehrad/Library/Application Support/Windsurf/CachedData/d33d40f6cd3a4d7e451b22e94359230a4aa8c161
+    [VSCODE_PID] => 13383
+    [INFOPATH] => /opt/homebrew/share/info:
+    [HOMEBREW_CELLAR] => /opt/homebrew/Cellar
+    [VSCODE_L10N_BUNDLE_LOCATION] => 
+    [VSCODE_CWD] => /
+    [PHP_SELF] => /Users/mehrad/Documents/shahabmusic/login_admin.php
+    [SCRIPT_NAME] => /Users/mehrad/Documents/shahabmusic/login_admin.php
+    [SCRIPT_FILENAME] => /Users/mehrad/Documents/shahabmusic/login_admin.php
+    [PATH_TRANSLATED] => /Users/mehrad/Documents/shahabmusic/login_admin.php
+    [DOCUMENT_ROOT] => 
+    [REQUEST_TIME_FLOAT] => 1733099897.5142
+    [REQUEST_TIME] => 1733099897
+    [argv] => Array
+        (
+            [0] => /Users/mehrad/Documents/shahabmusic/login_admin.php
+        )
+
+    [argc] => 1
+)
+
+[2024-12-02 00:38:17] Non-POST request received. Request method: not set
+[2024-12-02 00:38:26] === New Login Attempt ===
+[2024-12-02 00:38:26] Session ID: b75a56e968abb3e3130c58915b916c0c
+[2024-12-02 00:38:26] Request Method: not set
+[2024-12-02 00:38:26] POST data: Array
+(
+)
+
+[2024-12-02 00:38:26] Server variables: Array
+(
+    [VSCODE_CRASH_REPORTER_PROCESS_TYPE] => extensionHost
+    [SHELL] => /bin/zsh
+    [TMPDIR] => /var/folders/4d/56n5cctd0y907v4y01knq03w0000gn/T/
+    [HOMEBREW_REPOSITORY] => /opt/homebrew
+    [ORIGINAL_XDG_CURRENT_DESKTOP] => undefined
+    [MallocNanoZone] => 0
+    [USER] => mehrad
+    [COMMAND_MODE] => unix2003
+    [SSH_AUTH_SOCK] => /private/tmp/com.apple.launchd.qq9w2KueaA/Listeners
+    [__CF_USER_TEXT_ENCODING] => 0x1F5:0x0:0x0
+    [ELECTRON_RUN_AS_NODE] => 1
+    [VSCODE_AMD_ENTRYPOINT] => vs/workbench/api/node/extensionHostProcess
+    [PATH] => /opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/Library/Apple/usr/bin:/Applications/VMware Fusion.app/Contents/Public:/Users/mehrad/.local/bin:/Users/mehrad/.local/bin:/Users/mehrad/.cache/lm-studio/bin
+    [_] => /opt/homebrew/bin/php
+    [__CFBundleIdentifier] => com.exafunction.windsurf
+    [PWD] => /
+    [VSCODE_HANDLES_UNCAUGHT_ERRORS] => true
+    [VERCEL_TOKEN] => oBe50v7A8k0SiM5Yl1xDrDMk
+    [XPC_FLAGS] => 0x0
+    [XPC_SERVICE_NAME] => application.com.exafunction.windsurf.9138260.9138266
+    [SHLVL] => 1
+    [HOME] => /Users/mehrad
+    [VSCODE_NLS_CONFIG] => {"userLocale":"en-us","osLocale":"en-us","resolvedLanguage":"en","defaultMessagesFile":"/Applications/Windsurf.app/Contents/Resources/app/out/nls.messages.json","locale":"en-us","availableLanguages":{}}
+    [HOMEBREW_PREFIX] => /opt/homebrew
+    [LOGNAME] => mehrad
+    [VSCODE_IPC_HOOK] => /Users/mehrad/Library/Application Support/Windsurf/1.94-main.sock
+    [VSCODE_CODE_CACHE_PATH] => /Users/mehrad/Library/Application Support/Windsurf/CachedData/d33d40f6cd3a4d7e451b22e94359230a4aa8c161
+    [VSCODE_PID] => 13383
+    [INFOPATH] => /opt/homebrew/share/info:
+    [HOMEBREW_CELLAR] => /opt/homebrew/Cellar
+    [VSCODE_L10N_BUNDLE_LOCATION] => 
+    [VSCODE_CWD] => /
+    [PHP_SELF] => /Users/mehrad/Documents/shahabmusic/login_admin.php
+    [SCRIPT_NAME] => /Users/mehrad/Documents/shahabmusic/login_admin.php
+    [SCRIPT_FILENAME] => /Users/mehrad/Documents/shahabmusic/login_admin.php
+    [PATH_TRANSLATED] => /Users/mehrad/Documents/shahabmusic/login_admin.php
+    [DOCUMENT_ROOT] => 
+    [REQUEST_TIME_FLOAT] => 1733099906.9193
+    [REQUEST_TIME] => 1733099906
+    [argv] => Array
+        (
+            [0] => /Users/mehrad/Documents/shahabmusic/login_admin.php
+        )
+
+    [argc] => 1
+)
+
+[2024-12-02 00:38:26] Non-POST request received. Request method: not set
+[2024-12-02 00:53:32] User logged out: admin
+[2024-12-02 00:53:57] Accessing complete_course.php
+[2024-12-02 00:53:57] Course completed: User mehrad4, Course ID 1
+[2024-12-04 21:45:13] Error in fetch_directory.php: No video files found in the directory
+[2024-12-04 21:48:35] User logged out: admin
+[2024-12-04 21:56:53] User logged out: mehrad4
+[2024-12-04 22:14:26] Accessing complete_course.php
+[2024-12-04 22:14:26] Course completed: User mehrad4, Course ID 3
+[2024-12-04 23:06:38] Course deleted successfully: ID 3
+[2024-12-04 23:11:22] Fetching directory listing from: https://archive.org/download/Sample-Video-Mp4
+[2024-12-04 23:11:24] Found video: https://archive.org/download/Sample-Video-Mp4/IMG_6303.MP4
+[2024-12-04 23:11:24] Found video: https://archive.org/download/Sample-Video-Mp4/IMG_6303.mp4
+[2024-12-04 23:11:32] Received POST data: Array
+(
+    [title] => new course
+    [description] => course desc
+    [image_url] => https://ia904609.us.archive.org/16/items/Sample-Video-Mp4/__ia_thumb.jpg
+    [lesson_url_0] => https://archive.org/download/Sample-Video-Mp4/IMG_6303.MP4
+    [lesson_url_1] => https://archive.org/download/Sample-Video-Mp4/IMG_6303.mp4
+    [lessons] => [{"url":"https://archive.org/download/Sample-Video-Mp4/IMG_6303.MP4"},{"url":"https://archive.org/download/Sample-Video-Mp4/IMG_6303.mp4"}]
+)
+
+[2024-12-04 23:11:32] Created course with ID: 4
+[2024-12-04 23:11:32] Added video at index 0 for course 4
+[2024-12-04 23:11:32] Added video at index 1 for course 4
+[2024-12-04 23:11:32] Successfully created course and added videos
+[2024-12-04 23:17:34] Fetching directory listing from: https://archive.org/download/Sample-Video-Mp4
+[2024-12-04 23:17:44] Found video: https://archive.org/download/Sample-Video-Mp4/IMG_6303.MP4
+[2024-12-04 23:17:44] Found video: https://archive.org/download/Sample-Video-Mp4/IMG_6303.mp4
+[2024-12-04 23:17:44] Fetching directory listing from: https://archive.org/download/Sample-Video-Mp4
+[2024-12-04 23:17:48] Found video: https://archive.org/download/Sample-Video-Mp4/IMG_6303.MP4
+[2024-12-04 23:17:48] Found video: https://archive.org/download/Sample-Video-Mp4/IMG_6303.mp4
+[2024-12-04 23:18:03] Received POST data: Array
+(
+    [title] => new cor
+    [description] => new lessons
+    [image_url] => https://ia904609.us.archive.org/16/items/Sample-Video-Mp4/__ia_thumb.jpg
+    [lesson_title_0] => درس 01
+    [lesson_description_0] => description 1
+    [lesson_url_0] => https://archive.org/download/Sample-Video-Mp4/IMG_6303.MP4
+    [lesson_title_1] => درس 02
+    [lesson_description_1] => description 2
+    [lesson_url_1] => https://archive.org/download/Sample-Video-Mp4/IMG_6303.mp4
+    [lessons] => [{"title":"درس 01","description":"description 1","url":"https://archive.org/download/Sample-Video-Mp4/IMG_6303.MP4"},{"title":"درس 02","description":"description 2","url":"https://archive.org/download/Sample-Video-Mp4/IMG_6303.mp4"}]
+)
+
+[2024-12-04 23:18:03] Decoded lessons data: Array
+(
+    [0] => Array
+        (
+            [title] => درس 01
+            [description] => description 1
+            [url] => https://archive.org/download/Sample-Video-Mp4/IMG_6303.MP4
+        )
+
+    [1] => Array
+        (
+            [title] => درس 02
+            [description] => description 2
+            [url] => https://archive.org/download/Sample-Video-Mp4/IMG_6303.mp4
+        )
+
+)
+
+[2024-12-04 23:18:03] Starting transaction
+[2024-12-04 23:18:03] Inserting course - Title: new cor, Description: new lessons, Image: https://ia904609.us.archive.org/16/items/Sample-Video-Mp4/__ia_thumb.jpg
+[2024-12-04 23:18:03] Created course with ID: 5
+[2024-12-04 23:18:03] Processing lesson 0: Array
+(
+    [title] => درس 01
+    [description] => description 1
+    [url] => https://archive.org/download/Sample-Video-Mp4/IMG_6303.MP4
+)
+
+[2024-12-04 23:18:03] Added video at index 0 for course 5
+[2024-12-04 23:18:03] Processing lesson 1: Array
+(
+    [title] => درس 02
+    [description] => description 2
+    [url] => https://archive.org/download/Sample-Video-Mp4/IMG_6303.mp4
+)
+
+[2024-12-04 23:18:03] Added video at index 1 for course 5
+[2024-12-04 23:18:03] Committing transaction
+[2024-12-04 23:18:03] Successfully created course and added videos
+[2024-12-04 23:23:36] Fetching directory listing from: https://archive.org/download/Sample-Video-Mp4
+[2024-12-04 23:23:37] Found video: https://archive.org/download/Sample-Video-Mp4/IMG_6303.MP4
+[2024-12-04 23:23:37] Found video: https://archive.org/download/Sample-Video-Mp4/IMG_6303.mp4
+[2024-12-04 23:23:44] Received POST data: Array
+(
+    [title] => new
+    [description] => course
+    [image_url] => https://ia904609.us.archive.org/16/items/Sample-Video-Mp4/__ia_thumb.jpg
+    [lesson_title_0] => درس 01
+    [lesson_description_0] => lesson 1
+    [lesson_url_0] => https://archive.org/download/Sample-Video-Mp4/IMG_6303.MP4
+    [lesson_title_1] => درس 02
+    [lesson_description_1] => lesson 2
+    [lesson_url_1] => https://archive.org/download/Sample-Video-Mp4/IMG_6303.mp4
+    [lessons] => [{"title":"درس 01","description":"lesson 1","url":"https://archive.org/download/Sample-Video-Mp4/IMG_6303.MP4"},{"title":"درس 02","description":"lesson 2","url":"https://archive.org/download/Sample-Video-Mp4/IMG_6303.mp4"}]
+)
+
+[2024-12-04 23:23:44] Decoded lessons data: Array
+(
+    [0] => Array
+        (
+            [title] => درس 01
+            [description] => lesson 1
+            [url] => https://archive.org/download/Sample-Video-Mp4/IMG_6303.MP4
+        )
+
+    [1] => Array
+        (
+            [title] => درس 02
+            [description] => lesson 2
+            [url] => https://archive.org/download/Sample-Video-Mp4/IMG_6303.mp4
+        )
+
+)
+
+[2024-12-04 23:23:44] Starting transaction
+[2024-12-04 23:23:44] Inserting course - Title: new, Description: course, Image: https://ia904609.us.archive.org/16/items/Sample-Video-Mp4/__ia_thumb.jpg
+[2024-12-04 23:23:44] Created course with ID: 6
+[2024-12-04 23:23:44] Processing lesson 0: Array
+(
+    [title] => درس 01
+    [description] => lesson 1
+    [url] => https://archive.org/download/Sample-Video-Mp4/IMG_6303.MP4
+)
+
+[2024-12-04 23:23:44] Added video at index 0 for course 6
+[2024-12-04 23:23:44] Processing lesson 1: Array
+(
+    [title] => درس 02
+    [description] => lesson 2
+    [url] => https://archive.org/download/Sample-Video-Mp4/IMG_6303.mp4
+)
+
+[2024-12-04 23:23:44] Added video at index 1 for course 6
+[2024-12-04 23:23:44] Committing transaction
+[2024-12-04 23:23:44] Successfully created course and added videos
+[2024-12-05 00:21:46] Course deleted successfully: ID 6
+[2024-12-05 00:21:51] Course deleted successfully: ID 5
+[2024-12-05 00:21:54] Course deleted successfully: ID 4
+[2024-12-05 00:22:07] Course deleted successfully: ID 3
+[2024-12-05 00:22:28] Fetching directory listing from: https://archive.org/download/Sample-Video-Mp4
+[2024-12-05 00:22:28] Error in fetch_directory.php: Failed to fetch directory listing
+[2024-12-05 00:22:31] Fetching directory listing from: https://archive.org/download/Sample-Video-Mp4
+[2024-12-05 00:22:31] Error in fetch_directory.php: Failed to fetch directory listing
+[2024-12-05 00:31:54] Fetching directory listing from: https://archive.org/download/Sample-Video-Mp4
+[2024-12-05 00:31:54] Error in fetch_directory.php: Failed to fetch directory listing: Could not resolve host: archive.org
+[2024-12-05 00:35:53] Fetching directory listing from: https://github.com/chromium/chromium/tree/master/media/test/data
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/90rotation.mp4
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/90rotation.mp4
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/audio-start-time-only.webm
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/audio-start-time-only.webm
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bbb-320x240-2video-2audio.mp4
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bbb-320x240-2video-2audio.mp4
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-1280x720-a_frag-cenc-key_rotation.mp4
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-1280x720-a_frag-cenc-key_rotation.mp4
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-1280x720-a_frag-cenc.mp4
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-1280x720-a_frag-cenc.mp4
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-1280x720-a_frag-cenc_clear-all.mp4
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-1280x720-a_frag-cenc_clear-all.mp4
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-1280x720-a_frag-cenc_missing-saiz-saio.mp4
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-1280x720-a_frag-cenc_missing-saiz-saio.mp4
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-1280x720-av_frag-initsegment-mvhd_version_0-mvhd_duration_bits_all_set.mp4
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-1280x720-av_frag-initsegment-mvhd_version_0-mvhd_duration_bits_all_set.mp4
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-1280x720-av_frag.mp4
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-1280x720-av_frag.mp4
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-1280x720-av_with-aud-nalus_frag.mp4
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-1280x720-av_with-aud-nalus_frag.mp4
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-1280x720-avt_subt_frag.mp4
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-1280x720-avt_subt_frag.mp4
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-1280x720-v_frag-avc3.mp4
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-1280x720-v_frag-avc3.mp4
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-1280x720-v_frag-cenc-key_rotation.mp4
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-1280x720-v_frag-cenc-key_rotation.mp4
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-1280x720-v_frag-cenc.mp4
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-1280x720-v_frag-cenc.mp4
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-1280x720-v_frag-cenc_clear-all.mp4
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-1280x720-v_frag-cenc_clear-all.mp4
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-1280x720-zero-stsz-entry.mp4
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-1280x720-zero-stsz-entry.mp4
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-1280x720.mp4
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-1280x720.mp4
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-1280x720.webm
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-1280x720.webm
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-320x180-hi10p-vp9.webm
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-320x180-hi10p-vp9.webm
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-320x180-hi10p.mp4
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-320x180-hi10p.mp4
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-320x180-hi12p-vp9.webm
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-320x180-hi12p-vp9.webm
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-320x240-16x9-aspect-av_enc-av.webm
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-320x240-16x9-aspect-av_enc-av.webm
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-320x240-16x9-aspect.webm
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-320x240-16x9-aspect.webm
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-320x240-P444.webm
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-320x240-P444.webm
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-320x240-altref.webm
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-320x240-altref.webm
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-320x240-audio-only-48khz.webm
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-320x240-audio-only-48khz.webm
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-320x240-audio-only.webm
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-320x240-audio-only.webm
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-320x240-av_enc-a.webm
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-320x240-av_enc-a.webm
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-320x240-av_enc-av.webm
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-320x240-av_enc-av.webm
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-320x240-av_enc-av_clear-1s.webm
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-320x240-av_enc-av_clear-1s.webm
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-320x240-av_enc-av_clear-all.webm
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-320x240-av_enc-av_clear-all.webm
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-320x240-av_enc-v.webm
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-320x240-av_enc-v.webm
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-320x240-cues-in-front.webm
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-320x240-cues-in-front.webm
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-320x240-live.webm
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-320x240-live.webm
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-320x240-multitrack.webm
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-320x240-multitrack.webm
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-320x240-opus-a_enc-a.webm
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-320x240-opus-a_enc-a.webm
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-320x240-opus-av_enc-av.webm
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-320x240-opus-av_enc-av.webm
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-320x240-opus-av_enc-v.webm
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-320x240-opus-av_enc-v.webm
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-320x240-v-2frames-keyframe-is-non-sync-sample_frag-hevc.mp4
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-320x240-v-2frames-keyframe-is-non-sync-sample_frag-hevc.mp4
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-320x240-v-2frames-nonkeyframe-is-sync-sample_frag-hevc.mp4
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-320x240-v-2frames-nonkeyframe-is-sync-sample_frag-hevc.mp4
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-320x240-v-2frames_frag-hevc.mp4
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-320x240-v-2frames_frag-hevc.mp4
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-320x240-v-vp9_fullsample_enc-v.webm
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-320x240-v-vp9_fullsample_enc-v.webm
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-320x240-v-vp9_profile2_subsample_cenc-v.mp4
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-320x240-v-vp9_profile2_subsample_cenc-v.mp4
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-320x240-v-vp9_profile2_subsample_cenc-v.webm
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-320x240-v-vp9_profile2_subsample_cenc-v.webm
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-320x240-v-vp9_subsample_enc-v.webm
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-320x240-v-vp9_subsample_enc-v.webm
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-320x240-v_enc-v.webm
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-320x240-v_enc-v.webm
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-320x240-v_frag-hevc.mp4
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-320x240-v_frag-hevc.mp4
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-320x240-v_frag-vp9-cenc.mp4
+[2024-12-05 00:35:58] Found video: https://github.com/chromium/chromium/tree/master/media/test/data/chromium/chromium/blob/master/media/test/data/bear-320x240-v_frag-vp9-cenc.mp4
+[2024-12-05 00:35:58] Found video: http://commondatastorage.googleapis.com/chromiumos-test-assets-public/MSE/switch_1080p_720p.mp4
+[2024-12-05 00:36:32] Fetching directory listing from: https://getsamplefiles.com/sample-video-files/mp4
+[2024-12-05 00:36:33] Found video: https://getsamplefiles.com/download/mp4/sample-1.mp4
+[2024-12-05 00:36:33] Found video: https://getsamplefiles.com/download/mp4/sample-2.mp4
+[2024-12-05 00:36:33] Found video: https://getsamplefiles.com/download/mp4/sample-3.mp4
+[2024-12-05 00:36:33] Found video: https://getsamplefiles.com/download/mp4/sample-4.mp4
+[2024-12-05 00:36:33] Found video: https://getsamplefiles.com/download/mp4/sample-5.mp4
+[2024-12-05 00:37:13] Received POST data: Array
+(
+    [title] => course new
+    [description] => description
+    [image_url] => https://ia904609.us.archive.org/16/items/Sample-Video-Mp4/__ia_thumb.jpg
+    [lesson_title_0] => درس 01
+    [lesson_description_0] => lesson 1
+    [lesson_url_0] => https://getsamplefiles.com/download/mp4/sample-1.mp4
+    [lesson_title_1] => درس 02
+    [lesson_description_1] => lesson 2
+    [lesson_url_1] => https://getsamplefiles.com/download/mp4/sample-2.mp4
+    [lesson_title_2] => درس 03
+    [lesson_description_2] => les 3
+    [lesson_url_2] => https://getsamplefiles.com/download/mp4/sample-3.mp4
+    [lesson_title_3] => درس 04
+    [lesson_description_3] => les 4
+    [lesson_url_3] => https://getsamplefiles.com/download/mp4/sample-4.mp4
+    [lesson_title_4] => درس 05
+    [lesson_description_4] => les 5
+    [lesson_url_4] => https://getsamplefiles.com/download/mp4/sample-5.mp4
+    [lessons] => [{"title":"درس 01","description":"lesson 1","url":"https://getsamplefiles.com/download/mp4/sample-1.mp4"},{"title":"درس 02","description":"lesson 2","url":"https://getsamplefiles.com/download/mp4/sample-2.mp4"},{"title":"درس 03","description":"les 3","url":"https://getsamplefiles.com/download/mp4/sample-3.mp4"},{"title":"درس 04","description":"les 4","url":"https://getsamplefiles.com/download/mp4/sample-4.mp4"},{"title":"درس 05","description":"les 5","url":"https://getsamplefiles.com/download/mp4/sample-5.mp4"}]
+)
+
+[2024-12-05 00:37:13] Decoded lessons data: Array
+(
+    [0] => Array
+        (
+            [title] => درس 01
+            [description] => lesson 1
+            [url] => https://getsamplefiles.com/download/mp4/sample-1.mp4
+        )
+
+    [1] => Array
+        (
+            [title] => درس 02
+            [description] => lesson 2
+            [url] => https://getsamplefiles.com/download/mp4/sample-2.mp4
+        )
+
+    [2] => Array
+        (
+            [title] => درس 03
+            [description] => les 3
+            [url] => https://getsamplefiles.com/download/mp4/sample-3.mp4
+        )
+
+    [3] => Array
+        (
+            [title] => درس 04
+            [description] => les 4
+            [url] => https://getsamplefiles.com/download/mp4/sample-4.mp4
+        )
+
+    [4] => Array
+        (
+            [title] => درس 05
+            [description] => les 5
+            [url] => https://getsamplefiles.com/download/mp4/sample-5.mp4
+        )
+
+)
+
+[2024-12-05 00:37:13] Starting transaction
+[2024-12-05 00:37:13] Inserting course - Title: course new, Description: description, Image: https://ia904609.us.archive.org/16/items/Sample-Video-Mp4/__ia_thumb.jpg
+[2024-12-05 00:37:13] Created course with ID: 7
+[2024-12-05 00:37:13] Processing lesson 0: Array
+(
+    [title] => درس 01
+    [description] => lesson 1
+    [url] => https://getsamplefiles.com/download/mp4/sample-1.mp4
+)
+
+[2024-12-05 00:37:13] Added video at index 0 for course 7
+[2024-12-05 00:37:13] Processing lesson 1: Array
+(
+    [title] => درس 02
+    [description] => lesson 2
+    [url] => https://getsamplefiles.com/download/mp4/sample-2.mp4
+)
+
+[2024-12-05 00:37:13] Added video at index 1 for course 7
+[2024-12-05 00:37:13] Processing lesson 2: Array
+(
+    [title] => درس 03
+    [description] => les 3
+    [url] => https://getsamplefiles.com/download/mp4/sample-3.mp4
+)
+
+[2024-12-05 00:37:13] Added video at index 2 for course 7
+[2024-12-05 00:37:13] Processing lesson 3: Array
+(
+    [title] => درس 04
+    [description] => les 4
+    [url] => https://getsamplefiles.com/download/mp4/sample-4.mp4
+)
+
+[2024-12-05 00:37:13] Added video at index 3 for course 7
+[2024-12-05 00:37:13] Processing lesson 4: Array
+(
+    [title] => درس 05
+    [description] => les 5
+    [url] => https://getsamplefiles.com/download/mp4/sample-5.mp4
+)
+
+[2024-12-05 00:37:13] Added video at index 4 for course 7
+[2024-12-05 00:37:13] Committing transaction
+[2024-12-05 00:37:13] Successfully created course and added videos
+[2024-12-05 00:38:20] User logged out: admin
+[2024-12-05 01:20:17] User logged out: admin
+[2024-12-05 02:21:48] User logged out: mehrad5
+[2024-12-05 02:23:06] User logged out: admin
